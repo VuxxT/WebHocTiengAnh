@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["edit_id"])) {
 
 // ---------- PHÂN TRANG ---------- //
 $total = count($words);          // Tổng số từ
-$limit = 10;                      // Giới hạn 10 từ mỗi trang
+$limit = 100;                      // Giới hạn 10 từ mỗi trang
 $totalPages = ceil($total / $limit);
 
 $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
@@ -58,6 +58,7 @@ $wordsPage = array_slice($words, $start, $limit, true);
       <th>#</th>
       <th>English</th>
       <th>Vietnamese</th>
+      <th>IPA</th>
       <th>Action</th>
     </tr>
     <?php foreach ($wordsPage as $i => $w): ?>
@@ -65,6 +66,7 @@ $wordsPage = array_slice($words, $start, $limit, true);
       <td><?= $i ?></td>
       <td><?= htmlspecialchars($w['en']) ?></td>
       <td><?= htmlspecialchars($w['vi']) ?></td>
+      <td><?= htmlspecialchars($w['ipa']) ?></td>
       <td>
         <!-- Form sửa -->
         <form method="POST" style="display:inline;">

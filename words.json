@@ -1,26 +1,6147 @@
 [
-    {
-        "en": "apple",
-        "vi": "quả táo"
-    },
-    {
-        "en": "book",
-        "vi": "quyển sách"
-    },
-    {
-        "en": "dog",
-        "vi": "con chó"
-    },
-    {
-        "en": "computer",
-        "vi": "máy tính"
-    },
-    {
-        "en": "school",
-        "vi": "trường học"
-    },
-    {
-        "en": "cat",
-        "vi": "con mèo"
-    }
+  {
+    "en": "Family (n)",
+    "ipa": "/ˈfæm.əl.i/",
+    "vi": "Gia đình"
+  },
+  {
+    "en": "Parents (n)",
+    "ipa": "/ˈpeə.rənts/",
+    "vi": "Bố mẹ"
+  },
+  {
+    "en": "Father (n)",
+    "ipa": "/ˈfɑː.ðər/",
+    "vi": "Bố, cha"
+  },
+  {
+    "en": "Mother (n)",
+    "ipa": "/ˈmʌð.ər/",
+    "vi": "Mẹ"
+  },
+  {
+    "en": "Son (n)",
+    "ipa": "/sʌn/",
+    "vi": "Con trai"
+  },
+  {
+    "en": "Daughter (n)",
+    "ipa": "/ˈdɔː.tər/",
+    "vi": "Con gái"
+  },
+  {
+    "en": "Brother (n)",
+    "ipa": "/ˈbrʌð.ər/",
+    "vi": "Anh, em trai"
+  },
+  {
+    "en": "Sister (n)",
+    "ipa": "/ˈsɪs.tər/",
+    "vi": "Chị, em gái"
+  },
+  {
+    "en": "Sibling (n)",
+    "ipa": "/ˈsɪb.lɪŋ/",
+    "vi": "Anh chị em ruột"
+  },
+  {
+    "en": "Grandparents (n)",
+    "ipa": "/ˈɡræn.peə.rənts/",
+    "vi": "Ông bà"
+  },
+  {
+    "en": "Grandfather (n)",
+    "ipa": "/ˈɡræn.fɑː.ðər/",
+    "vi": "Ông"
+  },
+  {
+    "en": "Grandmother (n)",
+    "ipa": "/ˈɡræn.mʌð.ər/",
+    "vi": "Bà"
+  },
+  {
+    "en": "Grandson (n)",
+    "ipa": "/ˈɡræn.sʌn/",
+    "vi": "Cháu trai (nội/ngoại)"
+  },
+  {
+    "en": "Granddaughter (n)",
+    "ipa": "/ˈɡræn.dɔː.tər/",
+    "vi": "Cháu gái (nội/ngoại)"
+  },
+  {
+    "en": "Uncle (n)",
+    "ipa": "/ˈʌŋ.kəl/",
+    "vi": "Chú, bác, cậu"
+  },
+  {
+    "en": "Aunt (n)",
+    "ipa": "/ɑːnt/",
+    "vi": "Cô, dì"
+  },
+  {
+    "en": "Nephew (n)",
+    "ipa": "/ˈnef.juː/",
+    "vi": "Cháu trai"
+  },
+  {
+    "en": "Niece (n)",
+    "ipa": "/niːs/",
+    "vi": "Cháu gái"
+  },
+  {
+    "en": "Cousin (n)",
+    "ipa": "/ˈkʌz.ən/",
+    "vi": "Anh/chị/em họ"
+  },
+  {
+    "en": "Husband (n)",
+    "ipa": "/ˈhʌz.bənd/",
+    "vi": "Chồng"
+  },
+  {
+    "en": "Wife (n)",
+    "ipa": "/waɪf/",
+    "vi": "Vợ"
+  },
+  {
+    "en": "In-laws (n)",
+    "ipa": "/ˈɪn.lɔːz/",
+    "vi": "Gia đình bên chồng/vợ"
+  },
+  {
+    "en": "Father-in-law (n)",
+    "ipa": "/ˈfɑː.ðər.ɪn.lɔː/",
+    "vi": "Bố chồng/bố vợ"
+  },
+  {
+    "en": "Mother-in-law (n)",
+    "ipa": "/ˈmʌð.ər.ɪn.lɔː/",
+    "vi": "Mẹ chồng/mẹ vợ"
+  },
+  {
+    "en": "Brother-in-law (n)",
+    "ipa": "/ˈbrʌð.ər.ɪn.lɔː/",
+    "vi": "Anh/em rể"
+  },
+  {
+    "en": "Sister-in-law (n)",
+    "ipa": "/ˈsɪs.tər.ɪn.lɔː/",
+    "vi": "Chị/em dâu"
+  },
+  {
+    "en": "Stepfather (n)",
+    "ipa": "/ˈstɛpˌfɑː.ðər/",
+    "vi": "Bố dượng"
+  },
+  {
+    "en": "Stepmother (n)",
+    "ipa": "/ˈstɛpˌmʌð.ər/",
+    "vi": "Mẹ kế"
+  },
+  {
+    "en": "Stepson (n)",
+    "ipa": "/ˈstɛp.sʌn/",
+    "vi": "Con trai riêng của vợ/chồng"
+  },
+  {
+    "en": "Stepdaughter (n)",
+    "ipa": "/ˈstɛp.dɔː.tər/",
+    "vi": "Con gái riêng của vợ/chồng"
+  },
+  {
+    "en": "Weather (n)",
+    "ipa": "/ˈweð.ər/",
+    "vi": "Thời tiết"
+  },
+  {
+    "en": "Climate (n)",
+    "ipa": "/ˈklaɪ.mət/",
+    "vi": "Khí hậu"
+  },
+  {
+    "en": "Temperature (n)",
+    "ipa": "/ˈtem.prə.tʃər/",
+    "vi": "Nhiệt độ"
+  },
+  {
+    "en": "Forecast (n)",
+    "ipa": "/ˈfɔː.kɑːst/",
+    "vi": "Dự báo thời tiết"
+  },
+  {
+    "en": "Season (n)",
+    "ipa": "/ˈsiː.zən/",
+    "vi": "Mùa"
+  },
+  {
+    "en": "Spring (n)",
+    "ipa": "/sprɪŋ/",
+    "vi": "Mùa xuân"
+  },
+  {
+    "en": "Summer (n)",
+    "ipa": "/ˈsʌm.ər/",
+    "vi": "Mùa hè"
+  },
+  {
+    "en": "Autumn (n)",
+    "ipa": "/ˈɔː.təm/",
+    "vi": "Mùa thu"
+  },
+  {
+    "en": "Winter (n)",
+    "ipa": "/ˈwɪn.tər/",
+    "vi": "Mùa đông"
+  },
+  {
+    "en": "Sun (n)",
+    "ipa": "/sʌn/",
+    "vi": "Mặt trời"
+  },
+  {
+    "en": "Sunshine (n)",
+    "ipa": "/ˈsʌn.ʃaɪn/",
+    "vi": "Ánh nắng"
+  },
+  {
+    "en": "Sunny (adj)",
+    "ipa": "/ˈsʌn.i/",
+    "vi": "Nắng, trời nắng"
+  },
+  {
+    "en": "Cloud (n)",
+    "ipa": "/klaʊd/",
+    "vi": "Đám mây"
+  },
+  {
+    "en": "Cloudy (adj)",
+    "ipa": "/ˈklaʊ.di/",
+    "vi": "Nhiều mây"
+  },
+  {
+    "en": "Rain (n)",
+    "ipa": "/reɪn/",
+    "vi": "Mưa"
+  },
+  {
+    "en": "Rainy (adj)",
+    "ipa": "/ˈreɪ.ni/",
+    "vi": "Có mưa"
+  },
+  {
+    "en": "Shower (n)",
+    "ipa": "/ˈʃaʊ.ər/",
+    "vi": "Mưa rào"
+  },
+  {
+    "en": "Drizzle (n)",
+    "ipa": "/ˈdrɪz.l̩/",
+    "vi": "Mưa phùn"
+  },
+  {
+    "en": "Downpour (n)",
+    "ipa": "/ˈdaʊn.pɔːr/",
+    "vi": "Mưa lớn, mưa như trút"
+  },
+  {
+    "en": "Thunderstorm (n)",
+    "ipa": "/ˈθʌn.də.stɔːm/",
+    "vi": "Dông bão"
+  },
+  {
+    "en": "Lightning (n)",
+    "ipa": "/ˈlaɪt.nɪŋ/",
+    "vi": "Tia chớp"
+  },
+  {
+    "en": "Thunder (n)",
+    "ipa": "/ˈθʌn.dər/",
+    "vi": "Sấm"
+  },
+  {
+    "en": "Snow (n)",
+    "ipa": "/snəʊ/",
+    "vi": "Tuyết"
+  },
+  {
+    "en": "Snowy (adj)",
+    "ipa": "/ˈsnəʊ.i/",
+    "vi": "Có tuyết"
+  },
+  {
+    "en": "Blizzard (n)",
+    "ipa": "/ˈblɪz.əd/",
+    "vi": "Bão tuyết"
+  },
+  {
+    "en": "Hail (n)",
+    "ipa": "/heɪl/",
+    "vi": "Mưa đá"
+  },
+  {
+    "en": "Fog (n)",
+    "ipa": "/fɒɡ/",
+    "vi": "Sương mù"
+  },
+  {
+    "en": "Foggy (adj)",
+    "ipa": "/ˈfɒɡ.i/",
+    "vi": "Nhiều sương mù"
+  },
+  {
+    "en": "Mist (n)",
+    "ipa": "/mɪst/",
+    "vi": "Sương mù nhẹ"
+  },
+  {
+    "en": "Wind (n)",
+    "ipa": "/wɪnd/",
+    "vi": "Gió"
+  },
+  {
+    "en": "Windy (adj)",
+    "ipa": "/ˈwɪn.di/",
+    "vi": "Có gió"
+  },
+  {
+    "en": "Storm (n)",
+    "ipa": "/stɔːm/",
+    "vi": "Bão"
+  },
+  {
+    "en": "Stormy (adj)",
+    "ipa": "/ˈstɔː.mi/",
+    "vi": "Có bão"
+  },
+  {
+    "en": "Hurricane (n)",
+    "ipa": "/ˈhʌr.ɪ.kən/",
+    "vi": "Bão lớn (ở Đại Tây Dương)"
+  },
+  {
+    "en": "Typhoon (n)",
+    "ipa": "/taɪˈfuːn/",
+    "vi": "Bão nhiệt đới (ở Thái Bình Dương)"
+  },
+  {
+    "en": "Tornado (n)",
+    "ipa": "/tɔːrˈneɪ.dəʊ/",
+    "vi": "Lốc xoáy"
+  },
+  {
+    "en": "Drought (n)",
+    "ipa": "/draʊt/",
+    "vi": "Hạn hán"
+  },
+  {
+    "en": "Humidity (n)",
+    "ipa": "/hjuːˈmɪd.ə.ti/",
+    "vi": "Độ ẩm"
+  },
+  {
+    "en": "Humid (adj)",
+    "ipa": "/ˈhjuː.mɪd/",
+    "vi": "Ẩm ướt"
+  },
+  {
+    "en": "Heatwave (n)",
+    "ipa": "/ˈhiːt.weɪv/",
+    "vi": "Đợt nắng nóng"
+  },
+  {
+    "en": "Freezing (adj)",
+    "ipa": "/ˈfriː.zɪŋ/",
+    "vi": "Rét buốt"
+  },
+  {
+    "en": "Chilly (adj)",
+    "ipa": "/ˈtʃɪl.i/",
+    "vi": "Lạnh"
+  },
+  {
+    "en": "Warm (adj)",
+    "ipa": "/wɔːm/",
+    "vi": "Ấm áp"
+  },
+  {
+    "en": "Cold (adj)",
+    "ipa": "/kəʊld/",
+    "vi": "Lạnh"
+  },
+  {
+    "en": "Breezy (adj)",
+    "ipa": "/ˈbriː.zi/",
+    "vi": "Có gió nhẹ"
+  },
+  {
+    "en": "Overcast (adj)",
+    "ipa": "/ˈəʊ.və.kɑːst/",
+    "vi": "U ám, âm u"
+  },
+  {
+    "en": "Job (n)",
+    "ipa": "/dʒɒb/",
+    "vi": "Công việc, nghề nghiệp"
+  },
+  {
+    "en": "Occupation (n)",
+    "ipa": "/ˌɒk.jʊˈpeɪ.ʃən/",
+    "vi": "Nghề nghiệp"
+  },
+  {
+    "en": "Career (n)",
+    "ipa": "/kəˈrɪər/",
+    "vi": "Sự nghiệp"
+  },
+  {
+    "en": "Work (n)",
+    "ipa": "/wɜːk/",
+    "vi": "Công việc"
+  },
+  {
+    "en": "Employee (n)",
+    "ipa": "/ɪmˈplɔɪ.iː/",
+    "vi": "Nhân viên"
+  },
+  {
+    "en": "Employer (n)",
+    "ipa": "/ɪmˈplɔɪ.ər/",
+    "vi": "Nhà tuyển dụng"
+  },
+  {
+    "en": "Boss (n)",
+    "ipa": "/bɒs/",
+    "vi": "Sếp, ông chủ"
+  },
+  {
+    "en": "Manager (n)",
+    "ipa": "/ˈmæn.ɪ.dʒər/",
+    "vi": "Quản lý"
+  },
+  {
+    "en": "Director (n)",
+    "ipa": "/dɪˈrek.tər/",
+    "vi": "Giám đốc"
+  },
+  {
+    "en": "CEO (n)",
+    "ipa": "/ˌsiː.iːˈəʊ/",
+    "vi": "Tổng giám đốc"
+  },
+  {
+    "en": "Assistant (n)",
+    "ipa": "/əˈsɪs.tənt/",
+    "vi": "Trợ lý"
+  },
+  {
+    "en": "Accountant (n)",
+    "ipa": "/əˈkaʊn.tənt/",
+    "vi": "Kế toán"
+  },
+  {
+    "en": "Secretary (n)",
+    "ipa": "/ˈsek.rə.tər.i/",
+    "vi": "Thư ký"
+  },
+  {
+    "en": "Engineer (n)",
+    "ipa": "/ˌen.dʒɪˈnɪər/",
+    "vi": "Kỹ sư"
+  },
+  {
+    "en": "Architect (n)",
+    "ipa": "/ˈɑː.kɪ.tek/",
+    "vi": "Kiến trúc sư"
+  },
+  {
+    "en": "Doctor (n)",
+    "ipa": "/ˈdɒk.tər/",
+    "vi": "Bác sĩ"
+  },
+  {
+    "en": "Nurse (n)",
+    "ipa": "/nɜːs/",
+    "vi": "Y tá"
+  },
+  {
+    "en": "Pharmacist (n)",
+    "ipa": "/ˈfɑː.mə.sɪst/",
+    "vi": "Dược sĩ"
+  },
+  {
+    "en": "Dentist (n)",
+    "ipa": "/ˈden.tɪst/",
+    "vi": "Nha sĩ"
+  },
+  {
+    "en": "Surgeon (n)",
+    "ipa": "/ˈsɜː.dʒən/",
+    "vi": "Bác sĩ phẫu thuật"
+  },
+  {
+    "en": "Teacher (n)",
+    "ipa": "/ˈtiː.tʃər/",
+    "vi": "Giáo viên"
+  },
+  {
+    "en": "Professor (n)",
+    "ipa": "/prəˈfes.ər/",
+    "vi": "Giáo sư"
+  },
+  {
+    "en": "Lawyer (n)",
+    "ipa": "/ˈlɔɪ.ər/",
+    "vi": "Luật sư"
+  },
+  {
+    "en": "Judge (n)",
+    "ipa": "/dʒʌdʒ/",
+    "vi": "Thẩm phán"
+  },
+  {
+    "en": "Police officer (n)",
+    "ipa": "/pəˈliːs ˈɒf.ɪ.sər/",
+    "vi": "Cảnh sát"
+  },
+  {
+    "en": "Firefighter (n)",
+    "ipa": "/ˈfaɪəˌfaɪ.tər/",
+    "vi": "Lính cứu hỏa"
+  },
+  {
+    "en": "Soldier (n)",
+    "ipa": "/ˈsəʊl.dʒər/",
+    "vi": "Lính, quân nhân"
+  },
+  {
+    "en": "Pilot (n)",
+    "ipa": "/ˈpaɪ.lət/",
+    "vi": "Phi công"
+  },
+  {
+    "en": "Flight attendant (n)",
+    "ipa": "/ˈflaɪt əˌten.dənt/",
+    "vi": "Tiếp viên hàng không"
+  },
+  {
+    "en": "Driver (n)",
+    "ipa": "/ˈdraɪ.vər/",
+    "vi": "Tài xế"
+  },
+  {
+    "en": "Chef (n)",
+    "ipa": "/ʃef/",
+    "vi": "Đầu bếp"
+  },
+  {
+    "en": "Waiter (n)",
+    "ipa": "/ˈweɪ.tər/",
+    "vi": "Bồi bàn nam"
+  },
+  {
+    "en": "Waitress (n)",
+    "ipa": "/ˈweɪ.trəs/",
+    "vi": "Bồi bàn nữ"
+  },
+  {
+    "en": "Baker (n)",
+    "ipa": "/ˈbeɪ.kər/",
+    "vi": "Thợ làm bánh"
+  },
+  {
+    "en": "Barber (n)",
+    "ipa": "/ˈbɑː.bər/",
+    "vi": "Thợ cắt tóc nam"
+  },
+  {
+    "en": "Hairdresser (n)",
+    "ipa": "/ˈheəˌdres.ər/",
+    "vi": "Thợ làm tóc nữ"
+  },
+  {
+    "en": "Mechanic (n)",
+    "ipa": "/məˈkæn.ɪk/",
+    "vi": "Thợ sửa máy"
+  },
+  {
+    "en": "Electrician (n)",
+    "ipa": "/ɪˌlekˈtrɪʃ.ən/",
+    "vi": "Thợ điện"
+  },
+  {
+    "en": "Plumber (n)",
+    "ipa": "/ˈplʌm.ər/",
+    "vi": "Thợ sửa ống nước"
+  },
+  {
+    "en": "Carpenter (n)",
+    "ipa": "/ˈkɑː.pɪn.tər/",
+    "vi": "Thợ mộc"
+  },
+  {
+    "en": "Scientist (n)",
+    "ipa": "/ˈsaɪən.tɪst/",
+    "vi": "Nhà khoa học"
+  },
+  {
+    "en": "Researcher (n)",
+    "ipa": "/rɪˈsɜː.tʃər/",
+    "vi": "Nhà nghiên cứu"
+  },
+  {
+    "en": "Journalist (n)",
+    "ipa": "/ˈdʒɜː.nə.lɪst/",
+    "vi": "Nhà báo"
+  },
+  {
+    "en": "Photographer (n)",
+    "ipa": "/fəˈtɒɡ.rə.fər/",
+    "vi": "Nhiếp ảnh gia"
+  },
+  {
+    "en": "Writer (n)",
+    "ipa": "/ˈraɪ.tər/",
+    "vi": "Nhà văn"
+  },
+  {
+    "en": "Artist (n)",
+    "ipa": "/ˈɑː.tɪst/",
+    "vi": "Họa sĩ, nghệ sĩ"
+  },
+  {
+    "en": "Musician (n)",
+    "ipa": "/mjuˈzɪʃ.ən/",
+    "vi": "Nhạc sĩ"
+  },
+  {
+    "en": "Actor (n)",
+    "ipa": "/ˈæk.tər/",
+    "vi": "Nam diễn viên"
+  },
+  {
+    "en": "Actress (n)",
+    "ipa": "/ˈæk.trəs/",
+    "vi": "Nữ diễn viên"
+  },
+  {
+    "en": "Model (n)",
+    "ipa": "/ˈmɒd.əl/",
+    "vi": "Người mẫu"
+  },
+  {
+    "en": "Designer (n)",
+    "ipa": "/dɪˈzaɪ.nər/",
+    "vi": "Nhà thiết kế"
+  },
+  {
+    "en": "Entrepreneur (n)",
+    "ipa": "/ˌɒn.trə.prəˈnɜːr/",
+    "vi": "Doanh nhân"
+  },
+  {
+    "en": "Businessman (n)",
+    "ipa": "/ˈbɪz.nɪs.mən/",
+    "vi": "Nam doanh nhân"
+  },
+  {
+    "en": "Businesswoman (n)",
+    "ipa": "/ˈbɪz.nɪsˌwʊm.ən/",
+    "vi": "Nữ doanh nhân"
+  },
+  {
+    "en": "Banker (n)",
+    "ipa": "/ˈbæŋ.kər/",
+    "vi": "Nhân viên ngân hàng"
+  },
+  {
+    "en": "Real estate agent (n)",
+    "ipa": "/ˈrɪəl ɪˌsteɪt ˈeɪ.dʒənt/",
+    "vi": "Nhân viên môi giới bất động sản"
+  },
+  {
+    "en": "Consultant (n)",
+    "ipa": "/kənˈsʌl.tənt/",
+    "vi": "Cố vấn"
+  },
+  {
+    "en": "Programmer (n)",
+    "ipa": "/ˈprəʊ.ɡræm.ər/",
+    "vi": "Lập trình viên"
+  },
+  {
+    "en": "IT specialist (n)",
+    "ipa": "/ˌaɪˈtiː ˈspeʃ.əl.ɪst/",
+    "vi": "Chuyên gia CNTT"
+  },
+  {
+    "en": "Freelancer (n)",
+    "ipa": "/ˈfriː.lɑːn.sər/",
+    "vi": "Người làm việc tự do"
+  },
+  {
+    "en": "Kitchen (n)",
+    "ipa": "/ˈkɪtʃ.ən/",
+    "vi": "Nhà bếp"
+  },
+  {
+    "en": "Stove (n)",
+    "ipa": "/stəʊv/",
+    "vi": "Bếp nấu"
+  },
+  {
+    "en": "Oven (n)",
+    "ipa": "/ˈʌv.ən/",
+    "vi": "Lò nướng"
+  },
+  {
+    "en": "Microwave (n)",
+    "ipa": "/ˈmaɪ.krə.weɪv/",
+    "vi": "Lò vi sóng"
+  },
+  {
+    "en": "Refrigerator (n)",
+    "ipa": "/rɪˈfrɪdʒ.ər.eɪ.tər/",
+    "vi": "Tủ lạnh"
+  },
+  {
+    "en": "Freezer (n)",
+    "ipa": "/ˈfriː.zər/",
+    "vi": "Ngăn đá, tủ đông"
+  },
+  {
+    "en": "Sink (n)",
+    "ipa": "/sɪŋk/",
+    "vi": "Bồn rửa chén"
+  },
+  {
+    "en": "Countertop (n)",
+    "ipa": "/ˈkaʊn.tə.tɒp/",
+    "vi": "Mặt bàn bếp"
+  },
+  {
+    "en": "Cabinet (n)",
+    "ipa": "/ˈkæb.ɪ.nət/",
+    "vi": "Tủ bếp"
+  },
+  {
+    "en": "Cutting board (n)",
+    "ipa": "/ˈkʌt.ɪŋ bɔːd/",
+    "vi": "Thớt"
+  },
+  {
+    "en": "Knife (n)",
+    "ipa": "/naɪf/",
+    "vi": "Dao"
+  },
+  {
+    "en": "Spoon (n)",
+    "ipa": "/spuːn/",
+    "vi": "Thìa"
+  },
+  {
+    "en": "Fork (n)",
+    "ipa": "/fɔːk/",
+    "vi": "Nĩa"
+  },
+  {
+    "en": "Chopsticks (n)",
+    "ipa": "/ˈtʃɒp.stɪks/",
+    "vi": "Đũa"
+  },
+  {
+    "en": "Ladle (n)",
+    "ipa": "/ˈleɪ.dl/",
+    "vi": "Muôi múc canh"
+  },
+  {
+    "en": "Whisk (n)",
+    "ipa": "/wɪsk/",
+    "vi": "Dụng cụ đánh trứng"
+  },
+  {
+    "en": "Spatula (n)",
+    "ipa": "/ˈspætʃ.ʊ.lə/",
+    "vi": "Xẻng lật"
+  },
+  {
+    "en": "Pan (n)",
+    "ipa": "/pæn/",
+    "vi": "Chảo"
+  },
+  {
+    "en": "Pot (n)",
+    "ipa": "/pɒt/",
+    "vi": "Nồi"
+  },
+  {
+    "en": "Kettle (n)",
+    "ipa": "/ˈket.l̩/",
+    "vi": "Ấm đun nước"
+  },
+  {
+    "en": "Toaster (n)",
+    "ipa": "/ˈtəʊ.stər/",
+    "vi": "Máy nướng bánh mì"
+  },
+  {
+    "en": "Blender (n)",
+    "ipa": "/ˈblen.dər/",
+    "vi": "Máy xay sinh tố"
+  },
+  {
+    "en": "Dish (n)",
+    "ipa": "/dɪʃ/",
+    "vi": "Đĩa"
+  },
+  {
+    "en": "Bowl (n)",
+    "ipa": "/bəʊl/",
+    "vi": "Bát, tô"
+  },
+  {
+    "en": "Cup (n)",
+    "ipa": "/kʌp/",
+    "vi": "Cốc"
+  },
+  {
+    "en": "Mug (n)",
+    "ipa": "/mʌɡ/",
+    "vi": "Cốc lớn"
+  },
+  {
+    "en": "Bottle (n)",
+    "ipa": "/ˈbɒt.l̩/",
+    "vi": "Chai, lọ"
+  },
+  {
+    "en": "Can opener (n)",
+    "ipa": "/kæn ˈəʊ.pən.ər/",
+    "vi": "Dụng cụ mở hộp"
+  },
+  {
+    "en": "Trash bin (n)",
+    "ipa": "/træʃ bɪn/",
+    "vi": "Thùng rác"
+  },
+  {
+    "en": "Sport (n)",
+    "ipa": "/spɔːt/",
+    "vi": "Thể thao"
+  },
+  {
+    "en": "Soccer (n)",
+    "ipa": "/ˈsɒk.ər/",
+    "vi": "Bóng đá (Anh-Mỹ)"
+  },
+  {
+    "en": "Football (n)",
+    "ipa": "/ˈfʊt.bɔːl/",
+    "vi": "Bóng đá (Anh-Anh)"
+  },
+  {
+    "en": "Basketball (n)",
+    "ipa": "/ˈbɑː.skɪt.bɔːl/",
+    "vi": "Bóng rổ"
+  },
+  {
+    "en": "Volleyball (n)",
+    "ipa": "/ˈvɒl.i.bɔːl/",
+    "vi": "Bóng chuyền"
+  },
+  {
+    "en": "Tennis (n)",
+    "ipa": "/ˈten.ɪs/",
+    "vi": "Quần vợt"
+  },
+  {
+    "en": "Table tennis (n)",
+    "ipa": "/ˈteɪ.bəl ˈten.ɪs/",
+    "vi": "Bóng bàn"
+  },
+  {
+    "en": "Badminton (n)",
+    "ipa": "/ˈbæd.mɪn.tən/",
+    "vi": "Cầu lông"
+  },
+  {
+    "en": "Baseball (n)",
+    "ipa": "/ˈbeɪs.bɔːl/",
+    "vi": "Bóng chày"
+  },
+  {
+    "en": "Rugby (n)",
+    "ipa": "/ˈrʌɡ.bi/",
+    "vi": "Bóng bầu dục"
+  },
+  {
+    "en": "Golf (n)",
+    "ipa": "/ɡɒlf/",
+    "vi": "Đánh gôn"
+  },
+  {
+    "en": "Cycling (n)",
+    "ipa": "/ˈsaɪ.klɪŋ/",
+    "vi": "Đạp xe"
+  },
+  {
+    "en": "Swimming (n)",
+    "ipa": "/ˈswɪm.ɪŋ/",
+    "vi": "Bơi lội"
+  },
+  {
+    "en": "Running (n)",
+    "ipa": "/ˈrʌn.ɪŋ/",
+    "vi": "Chạy bộ"
+  },
+  {
+    "en": "Athletics (n)",
+    "ipa": "/æθˈlet.ɪks/",
+    "vi": "Điền kinh"
+  },
+  {
+    "en": "Gymnastics (n)",
+    "ipa": "/dʒɪmˈnæs.tɪks/",
+    "vi": "Thể dục dụng cụ"
+  },
+  {
+    "en": "Wrestling (n)",
+    "ipa": "/ˈres.lɪŋ/",
+    "vi": "Đấu vật"
+  },
+  {
+    "en": "Boxing (n)",
+    "ipa": "/ˈbɒk.sɪŋ/",
+    "vi": "Quyền anh"
+  },
+  {
+    "en": "Karate (n)",
+    "ipa": "/kəˈrɑː.ti/",
+    "vi": "Karate"
+  },
+  {
+    "en": "Judo (n)",
+    "ipa": "/ˈdʒuː.dəʊ/",
+    "vi": "Judo"
+  },
+  {
+    "en": "Archery (n)",
+    "ipa": "/ˈɑː.tʃər.i/",
+    "vi": "Bắn cung"
+  },
+  {
+    "en": "Fencing (n)",
+    "ipa": "/ˈfen.sɪŋ/",
+    "vi": "Đấu kiếm"
+  },
+  {
+    "en": "Ice skating (n)",
+    "ipa": "/ˈaɪs ˌskeɪ.tɪŋ/",
+    "vi": "Trượt băng"
+  },
+  {
+    "en": "Skiing (n)",
+    "ipa": "/ˈskiː.ɪŋ/",
+    "vi": "Trượt tuyết"
+  },
+  {
+    "en": "Surfing (n)",
+    "ipa": "/ˈsɜː.fɪŋ/",
+    "vi": "Lướt sóng"
+  },
+  {
+    "en": "Rowing (n)",
+    "ipa": "/ˈrəʊ.ɪŋ/",
+    "vi": "Chèo thuyền"
+  },
+  {
+    "en": "Diving (n)",
+    "ipa": "/ˈdaɪ.vɪŋ/",
+    "vi": "Lặn"
+  },
+  {
+    "en": "Skateboarding (n)",
+    "ipa": "/ˈskeɪtˌbɔː.dɪŋ/",
+    "vi": "Trượt ván"
+  },
+  {
+    "en": "Drink (n)",
+    "ipa": "/drɪŋk/",
+    "vi": "Đồ uống"
+  },
+  {
+    "en": "Beverage (n)",
+    "ipa": "/ˈbev.ər.ɪdʒ/",
+    "vi": "Thức uống"
+  },
+  {
+    "en": "Water (n)",
+    "ipa": "/ˈwɔː.tər/",
+    "vi": "Nước"
+  },
+  {
+    "en": "Mineral water (n)",
+    "ipa": "/ˈmɪn.ər.əl ˌwɔː.tər/",
+    "vi": "Nước khoáng"
+  },
+  {
+    "en": "Sparkling water (n)",
+    "ipa": "/ˈspɑː.klɪŋ ˌwɔː.tər/",
+    "vi": "Nước có ga"
+  },
+  {
+    "en": "Juice (n)",
+    "ipa": "/dʒuːs/",
+    "vi": "Nước ép"
+  },
+  {
+    "en": "Orange juice (n)",
+    "ipa": "/ˈɒr.ɪndʒ dʒuːs/",
+    "vi": "Nước cam"
+  },
+  {
+    "en": "Apple juice (n)",
+    "ipa": "/ˈæp.l̩ dʒuːs/",
+    "vi": "Nước táo"
+  },
+  {
+    "en": "Lemonade (n)",
+    "ipa": "/ˌlem.əˈneɪd/",
+    "vi": "Nước chanh"
+  },
+  {
+    "en": "Smoothie (n)",
+    "ipa": "/ˈsmuː.ði/",
+    "vi": "Sinh tố"
+  },
+  {
+    "en": "Milk (n)",
+    "ipa": "/mɪlk/",
+    "vi": "Sữa"
+  },
+  {
+    "en": "Soy milk (n)",
+    "ipa": "/sɔɪ mɪlk/",
+    "vi": "Sữa đậu nành"
+  },
+  {
+    "en": "Coffee (n)",
+    "ipa": "/ˈkɒf.i/",
+    "vi": "Cà phê"
+  },
+  {
+    "en": "Black coffee (n)",
+    "ipa": "/blæk ˈkɒf.i/",
+    "vi": "Cà phê đen"
+  },
+  {
+    "en": "Espresso (n)",
+    "ipa": "/esˈpres.əʊ/",
+    "vi": "Cà phê Espresso"
+  },
+  {
+    "en": "Latte (n)",
+    "ipa": "/ˈlɑː.teɪ/",
+    "vi": "Cà phê sữa"
+  },
+  {
+    "en": "Cappuccino (n)",
+    "ipa": "/ˌkæp.uˈtʃiː.nəʊ/",
+    "vi": "Cà phê Cappuccino"
+  },
+  {
+    "en": "Tea (n)",
+    "ipa": "/tiː/",
+    "vi": "Trà"
+  },
+  {
+    "en": "Green tea (n)",
+    "ipa": "/ɡriːn tiː/",
+    "vi": "Trà xanh"
+  },
+  {
+    "en": "Black tea (n)",
+    "ipa": "/blæk tiː/",
+    "vi": "Trà đen"
+  },
+  {
+    "en": "Herbal tea (n)",
+    "ipa": "/ˈhɜː.bəl tiː/",
+    "vi": "Trà thảo mộc"
+  },
+  {
+    "en": "Bubble tea (n)",
+    "ipa": "/ˈbʌb.l̩ tiː/",
+    "vi": "Trà sữa trân châu"
+  },
+  {
+    "en": "Soft drink (n)",
+    "ipa": "/sɒft drɪŋk/",
+    "vi": "Nước ngọt có ga"
+  },
+  {
+    "en": "Soda (n)",
+    "ipa": "/ˈsəʊ.də/",
+    "vi": "Nước soda"
+  },
+  {
+    "en": "Energy drink (n)",
+    "ipa": "/ˈen.ə.dʒi drɪŋk/",
+    "vi": "Nước tăng lực"
+  },
+  {
+    "en": "Wine (n)",
+    "ipa": "/waɪn/",
+    "vi": "Rượu vang"
+  },
+  {
+    "en": "Red wine (n)",
+    "ipa": "/red waɪn/",
+    "vi": "Rượu vang đỏ"
+  },
+  {
+    "en": "White wine (n)",
+    "ipa": "/waɪt waɪn/",
+    "vi": "Rượu vang trắng"
+  },
+  {
+    "en": "Beer (n)",
+    "ipa": "/bɪər/",
+    "vi": "Bia"
+  },
+  {
+    "en": "Cocktail (n)",
+    "ipa": "/ˈkɒk.teɪl/",
+    "vi": "Cocktail"
+  },
+  {
+    "en": "Appearance (n)",
+    "ipa": "/əˈpɪə.rəns/",
+    "vi": "Ngoại hình"
+  },
+  {
+    "en": "Height (n)",
+    "ipa": "/haɪt/",
+    "vi": "Chiều cao"
+  },
+  {
+    "en": "Weight (n)",
+    "ipa": "/weɪt/",
+    "vi": "Cân nặng"
+  },
+  {
+    "en": "Figure (n)",
+    "ipa": "/ˈfɪɡ.jər/",
+    "vi": "Dáng người"
+  },
+  {
+    "en": "Slim (adj)",
+    "ipa": "/slɪm/",
+    "vi": "Mảnh mai"
+  },
+  {
+    "en": "Fit (adj)",
+    "ipa": "/fɪt/",
+    "vi": "Cân đối, khỏe mạnh"
+  },
+  {
+    "en": "Muscular (adj)",
+    "ipa": "/ˈmʌs.kjə.lər/",
+    "vi": "Cơ bắp, vạm vỡ"
+  },
+  {
+    "en": "Overweight (adj)",
+    "ipa": "/ˌəʊ.vəˈweɪt/",
+    "vi": "Thừa cân"
+  },
+  {
+    "en": "Tall (adj)",
+    "ipa": "/tɔːl/",
+    "vi": "Cao"
+  },
+  {
+    "en": "Short (adj)",
+    "ipa": "/ʃɔːt/",
+    "vi": "Thấp, lùn"
+  },
+  {
+    "en": "Skin tone (n)",
+    "ipa": "/skɪn təʊn/",
+    "vi": "Màu da"
+  },
+  {
+    "en": "Pale (adj)",
+    "ipa": "/peɪl/",
+    "vi": "Da nhợt nhạt"
+  },
+  {
+    "en": "Tan (adj)",
+    "ipa": "/tæn/",
+    "vi": "Da rám nắng"
+  },
+  {
+    "en": "Dark-skinned (adj)",
+    "ipa": "/dɑːk skɪnd/",
+    "vi": "Da ngăm"
+  },
+  {
+    "en": "Face shape (n)",
+    "ipa": "/feɪs ʃeɪp/",
+    "vi": "Hình dáng khuôn mặt"
+  },
+  {
+    "en": "Round face (n)",
+    "ipa": "/raʊnd feɪs/",
+    "vi": "Khuôn mặt tròn"
+  },
+  {
+    "en": "Oval face (n)",
+    "ipa": "/ˈəʊ.vəl feɪs/",
+    "vi": "Khuôn mặt trái xoan"
+  },
+  {
+    "en": "Square face (n)",
+    "ipa": "/skweər feɪs/",
+    "vi": "Khuôn mặt vuông"
+  },
+  {
+    "en": "Hair (n)",
+    "ipa": "/heər/",
+    "vi": "Tóc"
+  },
+  {
+    "en": "Curly hair (n)",
+    "ipa": "/ˈkɜː.li heər/",
+    "vi": "Tóc xoăn"
+  },
+  {
+    "en": "Straight hair (n)",
+    "ipa": "/streɪt heər/",
+    "vi": "Tóc thẳng"
+  },
+  {
+    "en": "Wavy hair (n)",
+    "ipa": "/ˈweɪ.vi heər/",
+    "vi": "Tóc gợn sóng"
+  },
+  {
+    "en": "Bald (adj)",
+    "ipa": "/bɔːld/",
+    "vi": "Hói đầu"
+  },
+  {
+    "en": "Eye color (n)",
+    "ipa": "/aɪ ˈkʌl.ər/",
+    "vi": "Màu mắt"
+  },
+  {
+    "en": "Blue eyes (n)",
+    "ipa": "/bluː aɪz/",
+    "vi": "Mắt xanh"
+  },
+  {
+    "en": "Brown eyes (n)",
+    "ipa": "/braʊn aɪz/",
+    "vi": "Mắt nâu"
+  },
+  {
+    "en": "Hazel eyes (n)",
+    "ipa": "/ˈheɪ.zəl aɪz/",
+    "vi": "Mắt nâu lục nhạt"
+  },
+  {
+    "en": "Attractive (adj)",
+    "ipa": "/əˈtræk.tɪv/",
+    "vi": "Thu hút, ưa nhìn"
+  },
+  {
+    "en": "Handsome (adj)",
+    "ipa": "/ˈhæn.səm/",
+    "vi": "Đẹp trai"
+  },
+  {
+    "en": "Beautiful (adj)",
+    "ipa": "/ˈbjuː.tɪ.fəl/",
+    "vi": "Xinh đẹp"
+  },
+  {
+    "en": "Country (n)",
+    "ipa": "/ˈkʌn.tri/",
+    "vi": "Quốc gia"
+  },
+  {
+    "en": "Nation (n)",
+    "ipa": "/ˈneɪ.ʃən/",
+    "vi": "Quốc gia, dân tộc"
+  },
+  {
+    "en": "Continent (n)",
+    "ipa": "/ˈkɒn.tɪ.nənt/",
+    "vi": "Châu lục"
+  },
+  {
+    "en": "Asia (n)",
+    "ipa": "/ˈeɪ.ʒə/",
+    "vi": "Châu Á"
+  },
+  {
+    "en": "Europe (n)",
+    "ipa": "/ˈjʊə.rəp/",
+    "vi": "Châu Âu"
+  },
+  {
+    "en": "Africa (n)",
+    "ipa": "/ˈæf.rɪ.kə/",
+    "vi": "Châu Phi"
+  },
+  {
+    "en": "America (n)",
+    "ipa": "/əˈmer.ɪ.kə/",
+    "vi": "Châu Mỹ"
+  },
+  {
+    "en": "Australia (n)",
+    "ipa": "/ɒsˈtreɪ.li.ə/",
+    "vi": "Châu Úc"
+  },
+  {
+    "en": "Vietnam (n)",
+    "ipa": "/ˌvjetˈnæm/",
+    "vi": "Việt Nam"
+  },
+  {
+    "en": "China (n)",
+    "ipa": "/ˈtʃaɪ.nə/",
+    "vi": "Trung Quốc"
+  },
+  {
+    "en": "Japan (n)",
+    "ipa": "/dʒəˈpæn/",
+    "vi": "Nhật Bản"
+  },
+  {
+    "en": "South Korea (n)",
+    "ipa": "/ˌsaʊθ kəˈriː.ə/",
+    "vi": "Hàn Quốc"
+  },
+  {
+    "en": "Thailand (n)",
+    "ipa": "/ˈtaɪ.lænd/",
+    "vi": "Thái Lan"
+  },
+  {
+    "en": "India (n)",
+    "ipa": "/ˈɪn.di.ə/",
+    "vi": "Ấn Độ"
+  },
+  {
+    "en": "USA (n)",
+    "ipa": "/ˌjuː.esˈeɪ/",
+    "vi": "Mỹ"
+  },
+  {
+    "en": "UK (n)",
+    "ipa": "/ˌjuːˈkeɪ/",
+    "vi": "Anh"
+  },
+  {
+    "en": "France (n)",
+    "ipa": "/frɑːns/",
+    "vi": "Pháp"
+  },
+  {
+    "en": "Germany (n)",
+    "ipa": "/ˈdʒɜː.mə.ni/",
+    "vi": "Đức"
+  },
+  {
+    "en": "Italy (n)",
+    "ipa": "/ˈɪt.əl.i/",
+    "vi": "Ý"
+  },
+  {
+    "en": "Spain (n)",
+    "ipa": "/speɪn/",
+    "vi": "Tây Ban Nha"
+  },
+  {
+    "en": "Canada (n)",
+    "ipa": "/ˈkæn.ə.də/",
+    "vi": "Canada"
+  },
+  {
+    "en": "Brazil (n)",
+    "ipa": "/brəˈzɪl/",
+    "vi": "Brazil"
+  },
+  {
+    "en": "Russia (n)",
+    "ipa": "/ˈrʌʃ.ə/",
+    "vi": "Nga"
+  },
+  {
+    "en": "Egypt (n)",
+    "ipa": "/ˈiː.dʒɪpt/",
+    "vi": "Ai Cập"
+  },
+  {
+    "en": "Mexico (n)",
+    "ipa": "/ˈmek.sɪ.kəʊ/",
+    "vi": "Mexico"
+  },
+  {
+    "en": "Argentina (n)",
+    "ipa": "/ˌɑː.dʒənˈtiː.nə/",
+    "vi": "Argentina"
+  },
+  {
+    "en": "Indonesia (n)",
+    "ipa": "/ˌɪn.dəˈniː.ʒə/",
+    "vi": "Indonesia"
+  },
+  {
+    "en": "Philippines (n)",
+    "ipa": "/ˈfɪl.ɪ.piːnz/",
+    "vi": "Philippines"
+  },
+  {
+    "en": "Insect (n)",
+    "ipa": "/ˈɪn.sekt/",
+    "vi": "Côn trùng"
+  },
+  {
+    "en": "Bug (n)",
+    "ipa": "/bʌɡ/",
+    "vi": "Bọ"
+  },
+  {
+    "en": "Ant (n)",
+    "ipa": "/ænt/",
+    "vi": "Kiến"
+  },
+  {
+    "en": "Bee (n)",
+    "ipa": "/biː/",
+    "vi": "Ong"
+  },
+  {
+    "en": "Wasp (n)",
+    "ipa": "/wɒsp/",
+    "vi": "Ong bắp cày"
+  },
+  {
+    "en": "Butterfly (n)",
+    "ipa": "/ˈbʌt.ə.flaɪ/",
+    "vi": "Bướm"
+  },
+  {
+    "en": "Moth (n)",
+    "ipa": "/mɒθ/",
+    "vi": "Bướm đêm"
+  },
+  {
+    "en": "Beetle (n)",
+    "ipa": "/ˈbiː.tl/",
+    "vi": "Bọ cánh cứng"
+  },
+  {
+    "en": "Cockroach (n)",
+    "ipa": "/ˈkɒk.rəʊtʃ/",
+    "vi": "Gián"
+  },
+  {
+    "en": "Grasshopper (n)",
+    "ipa": "/ˈɡrɑːsˌhɒp.ər/",
+    "vi": "Châu chấu"
+  },
+  {
+    "en": "Cricket (n)",
+    "ipa": "/ˈkrɪk.ɪt/",
+    "vi": "Dế"
+  },
+  {
+    "en": "Dragonfly (n)",
+    "ipa": "/ˈdræɡ.ən.flaɪ/",
+    "vi": "Chuồn chuồn"
+  },
+  {
+    "en": "Mosquito (n)",
+    "ipa": "/mɒˈskiː.təʊ/",
+    "vi": "Muỗi"
+  },
+  {
+    "en": "Fly (n)",
+    "ipa": "/flaɪ/",
+    "vi": "Ruồi"
+  },
+  {
+    "en": "Flea (n)",
+    "ipa": "/fliː/",
+    "vi": "Bọ chét"
+  },
+  {
+    "en": "Louse (n)",
+    "ipa": "/laʊs/",
+    "vi": "Chí, rận"
+  },
+  {
+    "en": "Termite (n)",
+    "ipa": "/ˈtɜː.maɪt/",
+    "vi": "Mối"
+  },
+  {
+    "en": "Spider (n)",
+    "ipa": "/ˈspaɪ.dər/",
+    "vi": "Nhện"
+  },
+  {
+    "en": "Scorpion (n)",
+    "ipa": "/ˈskɔː.pi.ən/",
+    "vi": "Bọ cạp"
+  },
+  {
+    "en": "Centipede (n)",
+    "ipa": "/ˈsen.tɪ.piːd/",
+    "vi": "Rết"
+  },
+  {
+    "en": "Caterpillar (n)",
+    "ipa": "/ˈkæt.ə.pɪl.ər/",
+    "vi": "Sâu bướm"
+  },
+  {
+    "en": "Firefly (n)",
+    "ipa": "/ˈfaɪə.flaɪ/",
+    "vi": "Đom đóm"
+  },
+  {
+    "en": "Stink bug (n)",
+    "ipa": "/stɪŋk bʌɡ/",
+    "vi": "Bọ xít"
+  },
+  {
+    "en": "Praying mantis (n)",
+    "ipa": "/ˈpreɪ.ɪŋ ˈmæn.tɪs/",
+    "vi": "Bọ ngựa"
+  },
+  {
+    "en": "Military (n/adj)",
+    "ipa": "/ˈmɪl.ɪ.tər.i/",
+    "vi": "Quân đội, thuộc về quân đội"
+  },
+  {
+    "en": "Army (n)",
+    "ipa": "/ˈɑː.mi/",
+    "vi": "Lục quân, quân đội"
+  },
+  {
+    "en": "Navy (n)",
+    "ipa": "/ˈneɪ.vi/",
+    "vi": "Hải quân"
+  },
+  {
+    "en": "Air Force (n)",
+    "ipa": "/eər fɔːs/",
+    "vi": "Không quân"
+  },
+  {
+    "en": "Marine (n)",
+    "ipa": "/məˈriːn/",
+    "vi": "Lính thủy đánh bộ"
+  },
+  {
+    "en": "Soldier (n)",
+    "ipa": "/ˈsəʊl.dʒər/",
+    "vi": "Người lính, quân nhân"
+  },
+  {
+    "en": "Officer (n)",
+    "ipa": "/ˈɒf.ɪ.sər/",
+    "vi": "Sĩ quan"
+  },
+  {
+    "en": "General (n)",
+    "ipa": "/ˈdʒen.ər.əl/",
+    "vi": "Đại tướng"
+  },
+  {
+    "en": "Colonel (n)",
+    "ipa": "/ˈkɜː.nəl/",
+    "vi": "Đại tá"
+  },
+  {
+    "en": "Captain (n)",
+    "ipa": "/ˈkæp.tɪn/",
+    "vi": "Đại úy"
+  },
+  {
+    "en": "Sergeant (n)",
+    "ipa": "/ˈsɑː.dʒənt/",
+    "vi": "Trung sĩ"
+  },
+  {
+    "en": "Private (n)",
+    "ipa": "/ˈpraɪ.vət/",
+    "vi": "Binh nhì"
+  },
+  {
+    "en": "Recruit (n)",
+    "ipa": "/rɪˈkruːt/",
+    "vi": "Tân binh"
+  },
+  {
+    "en": "Boot camp (n)",
+    "ipa": "/buːt kæmp/",
+    "vi": "Trại huấn luyện tân binh"
+  },
+  {
+    "en": "Military base (n)",
+    "ipa": "/ˈmɪl.ɪ.tər.i beɪs/",
+    "vi": "Căn cứ quân sự"
+  },
+  {
+    "en": "Barracks (n)",
+    "ipa": "/ˈbær.əks/",
+    "vi": "Doanh trại"
+  },
+  {
+    "en": "Weapon (n)",
+    "ipa": "/ˈwep.ən/",
+    "vi": "Vũ khí"
+  },
+  {
+    "en": "Firearm (n)",
+    "ipa": "/ˈfaɪər.ɑːrm/",
+    "vi": "Súng cầm tay"
+  },
+  {
+    "en": "Tank (n)",
+    "ipa": "/tæŋk/",
+    "vi": "Xe tăng"
+  },
+  {
+    "en": "Fighter jet (n)",
+    "ipa": "/ˈfaɪ.tər dʒet/",
+    "vi": "Máy bay chiến đấu"
+  },
+  {
+    "en": "Warship (n)",
+    "ipa": "/ˈwɔː.ʃɪp/",
+    "vi": "Tàu chiến"
+  },
+  {
+    "en": "Missile (n)",
+    "ipa": "/ˈmɪs.aɪl/",
+    "vi": "Tên lửa"
+  },
+  {
+    "en": "Camouflage (n)",
+    "ipa": "/ˈkæm.ə.flɑːʒ/",
+    "vi": "Ngụy trang"
+  },
+  {
+    "en": "Combat (n)",
+    "ipa": "/ˈkɒm.bæt/",
+    "vi": "Chiến đấu"
+  },
+  {
+    "en": "Battlefield (n)",
+    "ipa": "/ˈbæt.l̩.fiːld/",
+    "vi": "Chiến trường"
+  },
+  {
+    "en": "Strategy (n)",
+    "ipa": "/ˈstræt.ə.dʒi/",
+    "vi": "Chiến lược"
+  },
+  {
+    "en": "Defense (n)",
+    "ipa": "/dɪˈfens/",
+    "vi": "Phòng thủ"
+  },
+  {
+    "en": "Attack (n/v)",
+    "ipa": "/əˈtæk/",
+    "vi": "Tấn công"
+  },
+  {
+    "en": "Victory (n)",
+    "ipa": "/ˈvɪk.tər.i/",
+    "vi": "Chiến thắng"
+  },
+  {
+    "en": "Football (n)",
+    "ipa": "/ˈfʊt.bɔːl/",
+    "vi": "Bóng đá (Anh-Anh)"
+  },
+  {
+    "en": "Soccer (n)",
+    "ipa": "/ˈsɒk.ər/",
+    "vi": "Bóng đá (Anh-Mỹ)"
+  },
+  {
+    "en": "Player (n)",
+    "ipa": "/ˈpleɪ.ər/",
+    "vi": "Cầu thủ"
+  },
+  {
+    "en": "Team (n)",
+    "ipa": "/tiːm/",
+    "vi": "Đội bóng"
+  },
+  {
+    "en": "Goal (n)",
+    "ipa": "/ɡəʊl/",
+    "vi": "Bàn thắng"
+  },
+  {
+    "en": "Goalkeeper (n)",
+    "ipa": "/ˈɡəʊlˌkiː.pər/",
+    "vi": "Thủ môn"
+  },
+  {
+    "en": "Defender (n)",
+    "ipa": "/dɪˈfen.dər/",
+    "vi": "Hậu vệ"
+  },
+  {
+    "en": "Midfielder (n)",
+    "ipa": "/ˌmɪdˈfiːl.dər/",
+    "vi": "Tiền vệ"
+  },
+  {
+    "en": "Forward (n)",
+    "ipa": "/ˈfɔː.wəd/",
+    "vi": "Tiền đạo"
+  },
+  {
+    "en": "Striker (n)",
+    "ipa": "/ˈstraɪ.kər/",
+    "vi": "Tiền đạo cắm"
+  },
+  {
+    "en": "Captain (n)",
+    "ipa": "/ˈkæp.tɪn/",
+    "vi": "Đội trưởng"
+  },
+  {
+    "en": "Referee (n)",
+    "ipa": "/ˌref.əˈriː/",
+    "vi": "Trọng tài"
+  },
+  {
+    "en": "Assistant referee (n)",
+    "ipa": "/əˈsɪs.tənt ˌref.əˈriː/",
+    "vi": "Trợ lý trọng tài"
+  },
+  {
+    "en": "Kick-off (n)",
+    "ipa": "/ˈkɪk.ɒf/",
+    "vi": "Quả giao bóng"
+  },
+  {
+    "en": "Pass (v/n)",
+    "ipa": "/pɑːs/",
+    "vi": "Chuyền bóng"
+  },
+  {
+    "en": "Dribble (v)",
+    "ipa": "/ˈdrɪb.əl/",
+    "vi": "Dẫn bóng"
+  },
+  {
+    "en": "Tackle (v)",
+    "ipa": "/ˈtæk.l̩/",
+    "vi": "Tranh bóng"
+  },
+  {
+    "en": "Shot (n)",
+    "ipa": "/ʃɒt/",
+    "vi": "Cú sút"
+  },
+  {
+    "en": "Header (n)",
+    "ipa": "/ˈhed.ər/",
+    "vi": "Đánh đầu"
+  },
+  {
+    "en": "Corner kick (n)",
+    "ipa": "/ˈkɔː.nər kɪk/",
+    "vi": "Phạt góc"
+  },
+  {
+    "en": "Free kick (n)",
+    "ipa": "/ˌfriː ˈkɪk/",
+    "vi": "Đá phạt"
+  },
+  {
+    "en": "Penalty kick (n)",
+    "ipa": "/ˈpen.əl.ti kɪk/",
+    "vi": "Quả phạt đền"
+  },
+  {
+    "en": "Offside (n)",
+    "ipa": "/ˈɒf.saɪd/",
+    "vi": "Lỗi việt vị"
+  },
+  {
+    "en": "Foul (n)",
+    "ipa": "/faʊl/",
+    "vi": "Lỗi"
+  },
+  {
+    "en": "Red card (n)",
+    "ipa": "/ˌred ˈkɑːd/",
+    "vi": "Thẻ đỏ"
+  },
+  {
+    "en": "Yellow card (n)",
+    "ipa": "/ˌjel.oʊ ˈkɑːd/",
+    "vi": "Thẻ vàng"
+  },
+  {
+    "en": "Extra time (n)",
+    "ipa": "/ˌek.strə ˈtaɪm/",
+    "vi": "Hiệp phụ"
+  },
+  {
+    "en": "Penalty shootout (n)",
+    "ipa": "/ˈpen.əl.ti ˈʃuːt.aʊt/",
+    "vi": "Loạt sút luân lưu"
+  },
+  {
+    "en": "Stadium (n)",
+    "ipa": "/ˈsteɪ.di.əm/",
+    "vi": "Sân vận động"
+  },
+  {
+    "en": "Store (n)",
+    "ipa": "/stɔːr/",
+    "vi": "Cửa hàng"
+  },
+  {
+    "en": "Shop (n)",
+    "ipa": "/ʃɒp/",
+    "vi": "Cửa hàng, tiệm"
+  },
+  {
+    "en": "Supermarket (n)",
+    "ipa": "/ˈsuː.pəˌmɑː.kɪt/",
+    "vi": "Siêu thị"
+  },
+  {
+    "en": "Grocery store (n)",
+    "ipa": "/ˈɡrəʊ.sər.i stɔːr/",
+    "vi": "Cửa hàng tạp hóa"
+  },
+  {
+    "en": "Mall (n)",
+    "ipa": "/mɔːl/",
+    "vi": "Trung tâm thương mại"
+  },
+  {
+    "en": "Department store (n)",
+    "ipa": "/dɪˈpɑːt.mənt stɔːr/",
+    "vi": "Cửa hàng bách hóa"
+  },
+  {
+    "en": "Convenience store (n)",
+    "ipa": "/kənˈviː.ni.əns stɔːr/",
+    "vi": "Cửa hàng tiện lợi"
+  },
+  {
+    "en": "Bakery (n)",
+    "ipa": "/ˈbeɪ.kər.i/",
+    "vi": "Tiệm bánh"
+  },
+  {
+    "en": "Butcher shop (n)",
+    "ipa": "/ˈbʊtʃ.ər ʃɒp/",
+    "vi": "Cửa hàng thịt"
+  },
+  {
+    "en": "Fish market (n)",
+    "ipa": "/fɪʃ ˈmɑː.kɪt/",
+    "vi": "Chợ cá"
+  },
+  {
+    "en": "Fruit shop (n)",
+    "ipa": "/fruːt ʃɒp/",
+    "vi": "Cửa hàng hoa quả"
+  },
+  {
+    "en": "Clothing store (n)",
+    "ipa": "/ˈkləʊ.ðɪŋ stɔːr/",
+    "vi": "Cửa hàng quần áo"
+  },
+  {
+    "en": "Shoe store (n)",
+    "ipa": "/ʃuː stɔːr/",
+    "vi": "Cửa hàng giày dép"
+  },
+  {
+    "en": "Jewelry store (n)",
+    "ipa": "/ˈdʒuː.əl.ri stɔːr/",
+    "vi": "Cửa hàng trang sức"
+  },
+  {
+    "en": "Electronics store (n)",
+    "ipa": "/ɪˌlekˈtrɒn.ɪks stɔːr/",
+    "vi": "Cửa hàng điện tử"
+  },
+  {
+    "en": "Bookstore (n)",
+    "ipa": "/ˈbʊk.stɔːr/",
+    "vi": "Hiệu sách"
+  },
+  {
+    "en": "Pharmacy (n)",
+    "ipa": "/ˈfɑː.mə.si/",
+    "vi": "Hiệu thuốc"
+  },
+  {
+    "en": "Furniture store (n)",
+    "ipa": "/ˈfɜː.nɪ.tʃər stɔːr/",
+    "vi": "Cửa hàng nội thất"
+  },
+  {
+    "en": "Toy store (n)",
+    "ipa": "/tɔɪ stɔːr/",
+    "vi": "Cửa hàng đồ chơi"
+  },
+  {
+    "en": "Gift shop (n)",
+    "ipa": "/ɡɪft ʃɒp/",
+    "vi": "Cửa hàng quà tặng"
+  },
+  {
+    "en": "Florist (n)",
+    "ipa": "/ˈflɒr.ɪst/",
+    "vi": "Cửa hàng hoa"
+  },
+  {
+    "en": "Hardware store (n)",
+    "ipa": "/ˈhɑːd.weər stɔːr/",
+    "vi": "Cửa hàng dụng cụ"
+  },
+  {
+    "en": "Pet shop (n)",
+    "ipa": "/pet ʃɒp/",
+    "vi": "Cửa hàng thú cưng"
+  },
+  {
+    "en": "Thrift shop (n)",
+    "ipa": "/θrɪft ʃɒp/",
+    "vi": "Cửa hàng đồ cũ"
+  },
+  {
+    "en": "Antique shop (n)",
+    "ipa": "/ænˈtiːk ʃɒp/",
+    "vi": "Cửa hàng đồ cổ"
+  },
+  {
+    "en": "Coffee shop (n)",
+    "ipa": "/ˈkɒf.i ʃɒp/",
+    "vi": "Quán cà phê"
+  },
+  {
+    "en": "Fast food restaurant (n)",
+    "ipa": "/ˈfɑːst fuːd ˈres.trɒnt/",
+    "vi": "Nhà hàng thức ăn nhanh"
+  },
+  {
+    "en": "Hometown (n)",
+    "ipa": "/ˈhəʊm.taʊn/",
+    "vi": "Quê hương"
+  },
+  {
+    "en": "Countryside (n)",
+    "ipa": "/ˈkʌn.tri.saɪd/",
+    "vi": "Vùng nông thôn"
+  },
+  {
+    "en": "Village (n)",
+    "ipa": "/ˈvɪl.ɪdʒ/",
+    "vi": "Làng, thôn"
+  },
+  {
+    "en": "Town (n)",
+    "ipa": "/taʊn/",
+    "vi": "Thị trấn"
+  },
+  {
+    "en": "City (n)",
+    "ipa": "/ˈsɪt.i/",
+    "vi": "Thành phố"
+  },
+  {
+    "en": "Province (n)",
+    "ipa": "/ˈprɒv.ɪns/",
+    "vi": "Tỉnh"
+  },
+  {
+    "en": "Region (n)",
+    "ipa": "/ˈriː.dʒən/",
+    "vi": "Vùng, khu vực"
+  },
+  {
+    "en": "Neighborhood (n)",
+    "ipa": "/ˈneɪ.bə.hʊd/",
+    "vi": "Khu dân cư"
+  },
+  {
+    "en": "Rural (adj)",
+    "ipa": "/ˈrʊə.rəl/",
+    "vi": "Thuộc vùng quê"
+  },
+  {
+    "en": "Urban (adj)",
+    "ipa": "/ˈɜː.bən/",
+    "vi": "Thuộc thành phố"
+  },
+  {
+    "en": "Landscape (n)",
+    "ipa": "/ˈlænd.skeɪp/",
+    "vi": "Phong cảnh"
+  },
+  {
+    "en": "River (n)",
+    "ipa": "/ˈrɪv.ər/",
+    "vi": "Dòng sông"
+  },
+  {
+    "en": "Mountain (n)",
+    "ipa": "/ˈmaʊn.tɪn/",
+    "vi": "Núi"
+  },
+  {
+    "en": "Hill (n)",
+    "ipa": "/hɪl/",
+    "vi": "Đồi"
+  },
+  {
+    "en": "Field (n)",
+    "ipa": "/fiːld/",
+    "vi": "Cánh đồng"
+  },
+  {
+    "en": "Farm (n)",
+    "ipa": "/fɑːm/",
+    "vi": "Trang trại"
+  },
+  {
+    "en": "Bridge (n)",
+    "ipa": "/brɪdʒ/",
+    "vi": "Cây cầu"
+  },
+  {
+    "en": "Road (n)",
+    "ipa": "/rəʊd/",
+    "vi": "Con đường"
+  },
+  {
+    "en": "Market (n)",
+    "ipa": "/ˈmɑː.kɪt/",
+    "vi": "Chợ"
+  },
+  {
+    "en": "Pagoda (n)",
+    "ipa": "/pəˈɡəʊ.də/",
+    "vi": "Chùa"
+  },
+  {
+    "en": "Temple (n)",
+    "ipa": "/ˈtem.pəl/",
+    "vi": "Đền thờ"
+  },
+  {
+    "en": "Church (n)",
+    "ipa": "/tʃɜːtʃ/",
+    "vi": "Nhà thờ"
+  },
+  {
+    "en": "Traditional (adj)",
+    "ipa": "/trəˈdɪʃ.ən.əl/",
+    "vi": "Truyền thống"
+  },
+  {
+    "en": "Festival (n)",
+    "ipa": "/ˈfes.tɪ.vəl/",
+    "vi": "Lễ hội"
+  },
+  {
+    "en": "Culture (n)",
+    "ipa": "/ˈkʌl.tʃər/",
+    "vi": "Văn hóa"
+  },
+  {
+    "en": "Custom (n)",
+    "ipa": "/ˈkʌs.təm/",
+    "vi": "Phong tục"
+  },
+  {
+    "en": "Famous for (adj)",
+    "ipa": "/ˈfeɪ.məs fɔːr/",
+    "vi": "Nổi tiếng về"
+  },
+  {
+    "en": "Peaceful (adj)",
+    "ipa": "/ˈpiːs.fəl/",
+    "vi": "Yên bình"
+  },
+  {
+    "en": "Friendly (adj)",
+    "ipa": "/ˈfrend.li/",
+    "vi": "Thân thiện"
+  },
+  {
+    "en": "Lunar New Year (n)",
+    "ipa": "/ˈluː.nər njuː jɪər/",
+    "vi": "Tết Nguyên Đán"
+  },
+  {
+    "en": "Tet Holiday (n)",
+    "ipa": "/tet ˈhɒl.ɪ.deɪ/",
+    "vi": "Kỳ nghỉ Tết"
+  },
+  {
+    "en": "New Year's Eve (n)",
+    "ipa": "/njuː jɪərz iːv/",
+    "vi": "Đêm giao thừa"
+  },
+  {
+    "en": "Spring Festival (n)",
+    "ipa": "/sprɪŋ ˈfes.tɪ.vəl/",
+    "vi": "Lễ hội mùa xuân"
+  },
+  {
+    "en": "Family reunion (n)",
+    "ipa": "/ˈfæm.ɪ.li riːˈjuː.njən/",
+    "vi": "Đoàn tụ gia đình"
+  },
+  {
+    "en": "Ancestor worship (n)",
+    "ipa": "/ˈæn.ses.tər ˈwɜː.ʃɪp/",
+    "vi": "Thờ cúng tổ tiên"
+  },
+  {
+    "en": "Lucky money (n)",
+    "ipa": "/ˈlʌk.i ˈmʌn.i/",
+    "vi": "Tiền lì xì"
+  },
+  {
+    "en": "Red envelope (n)",
+    "ipa": "/red ˈen.və.ləʊp/",
+    "vi": "Bao lì xì"
+  },
+  {
+    "en": "Fireworks (n)",
+    "ipa": "/ˈfaɪə.wɜːks/",
+    "vi": "Pháo hoa"
+  },
+  {
+    "en": "Dragon dance (n)",
+    "ipa": "/ˈdræɡ.ən dæns/",
+    "vi": "Múa rồng"
+  },
+  {
+    "en": "Lion dance (n)",
+    "ipa": "/ˈlaɪ.ən dæns/",
+    "vi": "Múa lân"
+  },
+  {
+    "en": "Peach blossom (n)",
+    "ipa": "/piːtʃ ˈblɒs.əm/",
+    "vi": "Hoa đào"
+  },
+  {
+    "en": "Apricot blossom (n)",
+    "ipa": "/ˈeɪ.prɪ.kɒt ˈblɒs.əm/",
+    "vi": "Hoa mai"
+  },
+  {
+    "en": "Kumquat tree (n)",
+    "ipa": "/ˈkʌm.kwɒt triː/",
+    "vi": "Cây quất"
+  },
+  {
+    "en": "Five-fruit tray (n)",
+    "ipa": "/faɪv fruːt treɪ/",
+    "vi": "Mâm ngũ quả"
+  },
+  {
+    "en": "Square sticky rice cake (n)",
+    "ipa": "/skweər ˈstɪk.i raɪs keɪk/",
+    "vi": "Bánh chưng"
+  },
+  {
+    "en": "Cylindrical sticky rice cake (n)",
+    "ipa": "/sɪˈlɪn.drɪ.kəl ˈstɪk.i raɪs keɪk/",
+    "vi": "Bánh tét"
+  },
+  {
+    "en": "Pickled onions (n)",
+    "ipa": "/ˈpɪk.l̩d ˈʌn.jənz/",
+    "vi": "Dưa hành"
+  },
+  {
+    "en": "Boiled chicken (n)",
+    "ipa": "/bɔɪld ˈtʃɪk.ɪn/",
+    "vi": "Gà luộc"
+  },
+  {
+    "en": "Vietnamese sausage (n)",
+    "ipa": "/ˌvjet.nəˈmiːz ˈsɒ.sɪdʒ/",
+    "vi": "Giò chả"
+  },
+  {
+    "en": "Calligraphy (n)",
+    "ipa": "/kəˈlɪɡ.rə.fi/",
+    "vi": "Thư pháp"
+  },
+  {
+    "en": "Traditional market (n)",
+    "ipa": "/trəˈdɪʃ.ən.əl ˈmɑː.kɪt/",
+    "vi": "Chợ Tết"
+  },
+  {
+    "en": "First-footer (n)",
+    "ipa": "/ˈfɜːst ˈfʊt.ər/",
+    "vi": "Người xông đất"
+  },
+  {
+    "en": "Prosperity (n)",
+    "ipa": "/prɒsˈper.ɪ.ti/",
+    "vi": "Sự thịnh vượng"
+  },
+  {
+    "en": "Happiness (n)",
+    "ipa": "/ˈhæp.i.nəs/",
+    "vi": "Hạnh phúc"
+  },
+  {
+    "en": "Longevity (n)",
+    "ipa": "/lɒŋˈdʒev.ə.ti/",
+    "vi": "Trường thọ"
+  },
+  {
+    "en": "Fortune (n)",
+    "ipa": "/ˈfɔː.tʃuːn/",
+    "vi": "May mắn, tài lộc"
+  },
+  {
+    "en": "Zodiac animal (n)",
+    "ipa": "/ˈzəʊ.di.æk ˈæn.ɪ.məl/",
+    "vi": "Con giáp"
+  },
+  {
+    "en": "Eraser (n)",
+    "ipa": "/ɪˈreɪ.zər/",
+    "vi": "Cục tẩy, gôm"
+  },
+  {
+    "en": "Highlighter (n)",
+    "ipa": "/ˈhaɪˌlaɪ.tər/",
+    "vi": "Bút đánh dấu"
+  },
+  {
+    "en": "Marker (n)",
+    "ipa": "/ˈmɑː.kər/",
+    "vi": "Bút dạ"
+  },
+  {
+    "en": "Ruler (n)",
+    "ipa": "/ˈruː.lər/",
+    "vi": "Thước kẻ"
+  },
+  {
+    "en": "Compass (n)",
+    "ipa": "/ˈkʌm.pəs/",
+    "vi": "Compa"
+  },
+  {
+    "en": "Protractor (n)",
+    "ipa": "/prəˈtræk.tər/",
+    "vi": "Thước đo góc"
+  },
+  {
+    "en": "Calculator (n)",
+    "ipa": "/ˈkæl.kjə.leɪ.tər/",
+    "vi": "Máy tính cầm tay"
+  },
+  {
+    "en": "Clipboard (n)",
+    "ipa": "/ˈklɪp.bɔːd/",
+    "vi": "Bìa kẹp hồ sơ"
+  },
+  {
+    "en": "Folder (n)",
+    "ipa": "/ˈfəʊl.dər/",
+    "vi": "Tập hồ sơ"
+  },
+  {
+    "en": "Binder (n)",
+    "ipa": "/ˈbaɪn.dər/",
+    "vi": "Bìa còng"
+  },
+  {
+    "en": "Stapler (n)",
+    "ipa": "/ˈsteɪ.plər/",
+    "vi": "Dập ghim"
+  },
+  {
+    "en": "Paperclip (n)",
+    "ipa": "/ˈpeɪ.pə.klɪp/",
+    "vi": "Kẹp giấy"
+  },
+  {
+    "en": "Sticky notes (n)",
+    "ipa": "/ˈstɪk.i nəʊts/",
+    "vi": "Giấy ghi chú"
+  },
+  {
+    "en": "Tape (n)",
+    "ipa": "/teɪp/",
+    "vi": "Băng dính"
+  },
+  {
+    "en": "Glue (n)",
+    "ipa": "/ɡluː/",
+    "vi": "Keo dán"
+  },
+  {
+    "en": "Chalk (n)",
+    "ipa": "/tʃɔːk/",
+    "vi": "Phấn viết bảng"
+  },
+  {
+    "en": "Paintbrush (n)",
+    "ipa": "/ˈpeɪnt.brʌʃ/",
+    "vi": "Cọ vẽ"
+  },
+  {
+    "en": "Watercolors (n)",
+    "ipa": "/ˈwɔː.tə.kʌl.ərz/",
+    "vi": "Màu nước"
+  },
+  {
+    "en": "Crayon (n)",
+    "ipa": "/ˈkreɪ.ɒn/",
+    "vi": "Bút sáp màu"
+  },
+  {
+    "en": "Sketchbook (n)",
+    "ipa": "/ˈsketʃ.bʊk/",
+    "vi": "Sổ vẽ"
+  },
+  {
+    "en": "Drawing paper (n)",
+    "ipa": "/ˈdrɔː.ɪŋ ˈpeɪ.pər/",
+    "vi": "Giấy vẽ"
+  },
+  {
+    "en": "Textbook (n)",
+    "ipa": "/ˈtekst.bʊk/",
+    "vi": "Sách giáo khoa"
+  },
+  {
+    "en": "Dictionary (n)",
+    "ipa": "/ˈdɪk.ʃən.ər.i/",
+    "vi": "Từ điển"
+  },
+  {
+    "en": "Atlas (n)",
+    "ipa": "/ˈæt.ləs/",
+    "vi": "Tập bản đồ"
+  },
+  {
+    "en": "Flashcard (n)",
+    "ipa": "/ˈflæʃ.kɑːd/",
+    "vi": "Thẻ ghi nhớ"
+  },
+  {
+    "en": "Report card (n)",
+    "ipa": "/rɪˈpɔːt kɑːd/",
+    "vi": "Phiếu điểm"
+  },
+  {
+    "en": "Move (v)",
+    "ipa": "/muːv/",
+    "vi": "Di chuyển"
+  },
+  {
+    "en": "Walk (v)",
+    "ipa": "/wɔːk/",
+    "vi": "Đi bộ"
+  },
+  {
+    "en": "Run (v)",
+    "ipa": "/rʌn/",
+    "vi": "Chạy"
+  },
+  {
+    "en": "Jump (v)",
+    "ipa": "/dʒʌmp/",
+    "vi": "Nhảy"
+  },
+  {
+    "en": "Sit (v)",
+    "ipa": "/sɪt/",
+    "vi": "Ngồi"
+  },
+  {
+    "en": "Stand (v)",
+    "ipa": "/stænd/",
+    "vi": "Đứng"
+  },
+  {
+    "en": "Lie down (v)",
+    "ipa": "/laɪ daʊn/",
+    "vi": "Nằm xuống"
+  },
+  {
+    "en": "Raise (v)",
+    "ipa": "/reɪz/",
+    "vi": "Giơ lên"
+  },
+  {
+    "en": "Stretch (v)",
+    "ipa": "/stretʃ/",
+    "vi": "Duỗi người"
+  },
+  {
+    "en": "Bend (v)",
+    "ipa": "/bend/",
+    "vi": "Cúi xuống, gập người"
+  },
+  {
+    "en": "Turn (v)",
+    "ipa": "/tɜːn/",
+    "vi": "Quay, xoay"
+  },
+  {
+    "en": "Nod (v)",
+    "ipa": "/nɒd/",
+    "vi": "Gật đầu"
+  },
+  {
+    "en": "Shake (v)",
+    "ipa": "/ʃeɪk/",
+    "vi": "Lắc, bắt tay"
+  },
+  {
+    "en": "Wave (v)",
+    "ipa": "/weɪv/",
+    "vi": "Vẫy tay"
+  },
+  {
+    "en": "Clap (v)",
+    "ipa": "/klæp/",
+    "vi": "Vỗ tay"
+  },
+  {
+    "en": "Point (v)",
+    "ipa": "/pɔɪnt/",
+    "vi": "Chỉ tay"
+  },
+  {
+    "en": "Snap (v)",
+    "ipa": "/snæp/",
+    "vi": "Búng tay"
+  },
+  {
+    "en": "Yawn (v)",
+    "ipa": "/jɔːn/",
+    "vi": "Ngáp"
+  },
+  {
+    "en": "Cough (v)",
+    "ipa": "/kɒf/",
+    "vi": "Ho"
+  },
+  {
+    "en": "Sneeze (v)",
+    "ipa": "/sniːz/",
+    "vi": "Hắt hơi"
+  },
+  {
+    "en": "Breathe (v)",
+    "ipa": "/briːð/",
+    "vi": "Thở"
+  },
+  {
+    "en": "Blink (v)",
+    "ipa": "/blɪŋk/",
+    "vi": "Chớp mắt"
+  },
+  {
+    "en": "Smile (v)",
+    "ipa": "/smaɪl/",
+    "vi": "Cười mỉm"
+  },
+  {
+    "en": "Laugh (v)",
+    "ipa": "/lɑːf/",
+    "vi": "Cười thành tiếng"
+  },
+  {
+    "en": "Cry (v)",
+    "ipa": "/kraɪ/",
+    "vi": "Khóc"
+  },
+  {
+    "en": "Frown (v)",
+    "ipa": "/fraʊn/",
+    "vi": "Nhăn mặt"
+  },
+  {
+    "en": "Bite (v)",
+    "ipa": "/baɪt/",
+    "vi": "Cắn"
+  },
+  {
+    "en": "Chew (v)",
+    "ipa": "/tʃuː/",
+    "vi": "Nhai"
+  },
+  {
+    "en": "Lick (v)",
+    "ipa": "/lɪk/",
+    "vi": "Liếm"
+  },
+  {
+    "en": "Get up (v)",
+    "ipa": "/ɡet ʌp/",
+    "vi": "Rời khỏi giường"
+  },
+  {
+    "en": "Brush teeth (v)",
+    "ipa": "/brʌʃ tiːθ/",
+    "vi": "Đánh răng"
+  },
+  {
+    "en": "Wash face (v)",
+    "ipa": "/wɒʃ feɪs/",
+    "vi": "Rửa mặt"
+  },
+  {
+    "en": "Take a shower (v)",
+    "ipa": "/teɪk ə ˈʃaʊ.ər/",
+    "vi": "Tắm vòi sen"
+  },
+  {
+    "en": "Take a bath (v)",
+    "ipa": "/teɪk ə bɑːθ/",
+    "vi": "Tắm bồn"
+  },
+  {
+    "en": "Get dressed (v)",
+    "ipa": "/ɡet drest/",
+    "vi": "Mặc quần áo"
+  },
+  {
+    "en": "Have breakfast (v)",
+    "ipa": "/hæv ˈbrek.fəst/",
+    "vi": "Ăn sáng"
+  },
+  {
+    "en": "Go to school/work (v)",
+    "ipa": "/ɡəʊ tuː skuːl/wɜːk/",
+    "vi": "Đi học/làm"
+  },
+  {
+    "en": "Study (v)",
+    "ipa": "/ˈstʌd.i/",
+    "vi": "Học bài"
+  },
+  {
+    "en": "Work (v)",
+    "ipa": "/wɜːk/",
+    "vi": "Làm việc"
+  },
+  {
+    "en": "Take a break (v)",
+    "ipa": "/teɪk ə breɪk/",
+    "vi": "Nghỉ giải lao"
+  },
+  {
+    "en": "Have lunch (v)",
+    "ipa": "/hæv lʌntʃ/",
+    "vi": "Ăn trưa"
+  },
+  {
+    "en": "Exercise (v)",
+    "ipa": "/ˈek.sə.saɪz/",
+    "vi": "Tập thể dục"
+  },
+  {
+    "en": "Go home (v)",
+    "ipa": "/ɡəʊ həʊm/",
+    "vi": "Về nhà"
+  },
+  {
+    "en": "Cook (v)",
+    "ipa": "/kʊk/",
+    "vi": "Nấu ăn"
+  },
+  {
+    "en": "Have dinner (v)",
+    "ipa": "/hæv ˈdɪn.ər/",
+    "vi": "Ăn tối"
+  },
+  {
+    "en": "Wash the dishes (v)",
+    "ipa": "/wɒʃ ðə ˈdɪʃ.ɪz/",
+    "vi": "Rửa bát"
+  },
+  {
+    "en": "Watch TV (v)",
+    "ipa": "/wɒtʃ ˌtiːˈviː/",
+    "vi": "Xem tivi"
+  },
+  {
+    "en": "Read a book (v)",
+    "ipa": "/riːd ə bʊk/",
+    "vi": "Đọc sách"
+  },
+  {
+    "en": "Listen to music (v)",
+    "ipa": "/ˈlɪs.ən tuː ˈmjuː.zɪk/",
+    "vi": "Nghe nhạc"
+  },
+  {
+    "en": "Surf the internet (v)",
+    "ipa": "/sɜːf ði ˈɪn.tə.net/",
+    "vi": "Lướt web"
+  },
+  {
+    "en": "Chat with friends (v)",
+    "ipa": "/tʃæt wɪð frendz/",
+    "vi": "Trò chuyện với bạn bè"
+  },
+  {
+    "en": "Do homework (v)",
+    "ipa": "/duː ˈhəʊm.wɜːk/",
+    "vi": "Làm bài tập về nhà"
+  },
+  {
+    "en": "Take out the trash (v)",
+    "ipa": "/teɪk aʊt ðə træʃ/",
+    "vi": "Đổ rác"
+  },
+  {
+    "en": "Go shopping (v)",
+    "ipa": "/ɡəʊ ˈʃɒp.ɪŋ/",
+    "vi": "Đi mua sắm"
+  },
+  {
+    "en": "Take a nap (v)",
+    "ipa": "/teɪk ə næp/",
+    "vi": "Ngủ trưa"
+  },
+  {
+    "en": "Go to bed (v)",
+    "ipa": "/ɡəʊ tuː bed/",
+    "vi": "Đi ngủ"
+  },
+  {
+    "en": "Fall asleep (v)",
+    "ipa": "/fɔːl əˈsliːp/",
+    "vi": "Ngủ thiếp đi"
+  },
+  {
+    "en": "Shopping (n)",
+    "ipa": "/ˈʃɒp.ɪŋ/",
+    "vi": "Mua sắm"
+  },
+  {
+    "en": "Mall (n)",
+    "ipa": "/mɔːl/",
+    "vi": "Trung tâm thương mại"
+  },
+  {
+    "en": "Store (n)",
+    "ipa": "/stɔːr/",
+    "vi": "Cửa hàng"
+  },
+  {
+    "en": "Shop (n)",
+    "ipa": "/ʃɒp/",
+    "vi": "Cửa hàng nhỏ"
+  },
+  {
+    "en": "Customer (n)",
+    "ipa": "/ˈkʌs.tə.mər/",
+    "vi": "Khách hàng"
+  },
+  {
+    "en": "Cashier (n)",
+    "ipa": "/kæʃˈɪər/",
+    "vi": "Thu ngân"
+  },
+  {
+    "en": "Seller (n)",
+    "ipa": "/ˈsel.ər/",
+    "vi": "Người bán hàng"
+  },
+  {
+    "en": "Price (n)",
+    "ipa": "/praɪs/",
+    "vi": "Giá cả"
+  },
+  {
+    "en": "Discount (n)",
+    "ipa": "/ˈdɪs.kaʊnt/",
+    "vi": "Giảm giá"
+  },
+  {
+    "en": "Sale (n)",
+    "ipa": "/seɪl/",
+    "vi": "Đợt giảm giá"
+  },
+  {
+    "en": "Bargain (v/n)",
+    "ipa": "/ˈbɑː.ɡɪn/",
+    "vi": "Mặc cả, món hời"
+  },
+  {
+    "en": "Expensive (adj)",
+    "ipa": "/ɪkˈspen.sɪv/",
+    "vi": "Đắt đỏ"
+  },
+  {
+    "en": "Cheap (adj)",
+    "ipa": "/tʃiːp/",
+    "vi": "Rẻ"
+  },
+  {
+    "en": "Affordable (adj)",
+    "ipa": "/əˈfɔː.də.bəl/",
+    "vi": "Giá cả phải chăng"
+  },
+  {
+    "en": "Buy (v)",
+    "ipa": "/baɪ/",
+    "vi": "Mua"
+  },
+  {
+    "en": "Sell (v)",
+    "ipa": "/sel/",
+    "vi": "Bán"
+  },
+  {
+    "en": "Try on (v)",
+    "ipa": "/traɪ ɒn/",
+    "vi": "Thử đồ"
+  },
+  {
+    "en": "Shopping cart (n)",
+    "ipa": "/ˈʃɒp.ɪŋ kɑːt/",
+    "vi": "Xe đẩy hàng"
+  },
+  {
+    "en": "Basket (n)",
+    "ipa": "/ˈbɑː.skɪt/",
+    "vi": "Giỏ hàng"
+  },
+  {
+    "en": "Receipt (n)",
+    "ipa": "/rɪˈsiːt/",
+    "vi": "Hóa đơn"
+  },
+  {
+    "en": "Refund (n/v)",
+    "ipa": "/ˈriː.fʌnd/",
+    "vi": "Hoàn tiền"
+  },
+  {
+    "en": "Exchange (v)",
+    "ipa": "/ɪksˈtʃeɪndʒ/",
+    "vi": "Đổi hàng"
+  },
+  {
+    "en": "Credit card (n)",
+    "ipa": "/ˈkrɛd.ɪt kɑːd/",
+    "vi": "Thẻ tín dụng"
+  },
+  {
+    "en": "Cash (n)",
+    "ipa": "/kæʃ/",
+    "vi": "Tiền mặt"
+  },
+  {
+    "en": "Wallet (n)",
+    "ipa": "/ˈwɒl.ɪt/",
+    "vi": "Ví tiền"
+  },
+  {
+    "en": "Window shopping (n)",
+    "ipa": "/ˈwɪn.dəʊ ˈʃɒp.ɪŋ/",
+    "vi": "Xem hàng nhưng không mua"
+  },
+  {
+    "en": "Special offer (n)",
+    "ipa": "/ˈspeʃ.əl ˈɒf.ər/",
+    "vi": "Khuyến mãi đặc biệt"
+  },
+  {
+    "en": "Limited edition (n)",
+    "ipa": "/ˈlɪm.ɪ.tɪd ɪˈdɪʃ.ən/",
+    "vi": "Phiên bản giới hạn"
+  },
+  {
+    "en": "Out of stock (adj)",
+    "ipa": "/aʊt ɒv stɒk/",
+    "vi": "Hết hàng"
+  },
+  {
+    "en": "Hospital (n)",
+    "ipa": "/ˈhɒs.pɪ.təl/",
+    "vi": "Bệnh viện"
+  },
+  {
+    "en": "Clinic (n)",
+    "ipa": "/ˈklɪn.ɪk/",
+    "vi": "Phòng khám"
+  },
+  {
+    "en": "Emergency room (n)",
+    "ipa": "/ɪˈmɜː.dʒən.si ruːm/",
+    "vi": "Phòng cấp cứu"
+  },
+  {
+    "en": "Doctor (n)",
+    "ipa": "/ˈdɒk.tər/",
+    "vi": "Bác sĩ"
+  },
+  {
+    "en": "Nurse (n)",
+    "ipa": "/nɜːs/",
+    "vi": "Y tá"
+  },
+  {
+    "en": "Surgeon (n)",
+    "ipa": "/ˈsɜː.dʒən/",
+    "vi": "Bác sĩ phẫu thuật"
+  },
+  {
+    "en": "Patient (n)",
+    "ipa": "/ˈpeɪ.ʃənt/",
+    "vi": "Bệnh nhân"
+  },
+  {
+    "en": "Receptionist (n)",
+    "ipa": "/rɪˈsep.ʃən.ɪst/",
+    "vi": "Nhân viên lễ tân"
+  },
+  {
+    "en": "Pharmacist (n)",
+    "ipa": "/ˈfɑː.mə.sɪst/",
+    "vi": "Dược sĩ"
+  },
+  {
+    "en": "Examination (n)",
+    "ipa": "/ɪɡˌzæm.ɪˈneɪ.ʃən/",
+    "vi": "Khám bệnh"
+  },
+  {
+    "en": "Diagnosis (n)",
+    "ipa": "/ˌdaɪ.əɡˈnəʊ.sɪs/",
+    "vi": "Chẩn đoán"
+  },
+  {
+    "en": "Prescription (n)",
+    "ipa": "/prɪˈskrɪp.ʃən/",
+    "vi": "Đơn thuốc"
+  },
+  {
+    "en": "Treatment (n)",
+    "ipa": "/ˈtriːt.mənt/",
+    "vi": "Điều trị"
+  },
+  {
+    "en": "Surgery (n)",
+    "ipa": "/ˈsɜː.dʒər.i/",
+    "vi": "Phẫu thuật"
+  },
+  {
+    "en": "Operation (n)",
+    "ipa": "/ˌɒp.ərˈeɪ.ʃən/",
+    "vi": "Ca mổ"
+  },
+  {
+    "en": "Medicine (n)",
+    "ipa": "/ˈmed.ɪ.sɪn/",
+    "vi": "Thuốc"
+  },
+  {
+    "en": "Injection (n)",
+    "ipa": "/ɪnˈdʒek.ʃən/",
+    "vi": "Tiêm, chích"
+  },
+  {
+    "en": "Blood test (n)",
+    "ipa": "/blʌd test/",
+    "vi": "Xét nghiệm máu"
+  },
+  {
+    "en": "X-ray (n)",
+    "ipa": "/ˈeks.reɪ/",
+    "vi": "Chụp X-quang"
+  },
+  {
+    "en": "Ultrasound (n)",
+    "ipa": "/ˈʌl.trə.saʊnd/",
+    "vi": "Siêu âm"
+  },
+  {
+    "en": "Ward (n)",
+    "ipa": "/wɔːd/",
+    "vi": "Phòng bệnh"
+  },
+  {
+    "en": "Intensive care unit (ICU) (n)",
+    "ipa": "/ɪnˈten.sɪv keər ˈjuː.nɪt/",
+    "vi": "Khoa chăm sóc đặc biệt"
+  },
+  {
+    "en": "Ambulance (n)",
+    "ipa": "/ˈæm.bjə.ləns/",
+    "vi": "Xe cứu thương"
+  },
+  {
+    "en": "First aid (n)",
+    "ipa": "/ˌfɜːst ˈeɪd/",
+    "vi": "Sơ cứu"
+  },
+  {
+    "en": "Stretcher (n)",
+    "ipa": "/ˈstretʃ.ər/",
+    "vi": "Cáng cứu thương"
+  },
+  {
+    "en": "Wheelchair (n)",
+    "ipa": "/ˈwiːl.tʃeər/",
+    "vi": "Xe lăn"
+  },
+  {
+    "en": "Bandage (n)",
+    "ipa": "/ˈbæn.dɪdʒ/",
+    "vi": "Băng gạc"
+  },
+  {
+    "en": "Health (n)",
+    "ipa": "/hɛlθ/",
+    "vi": "Sức khỏe"
+  },
+  {
+    "en": "Well-being (n)",
+    "ipa": "/ˌwelˈbiː.ɪŋ/",
+    "vi": "Sự khỏe mạnh, hạnh phúc"
+  },
+  {
+    "en": "Fitness (n)",
+    "ipa": "/ˈfɪt.nəs/",
+    "vi": "Thể lực"
+  },
+  {
+    "en": "Diet (n)",
+    "ipa": "/ˈdaɪ.ət/",
+    "vi": "Chế độ ăn uống"
+  },
+  {
+    "en": "Nutrition (n)",
+    "ipa": "/njuːˈtrɪʃ.ən/",
+    "vi": "Dinh dưỡng"
+  },
+  {
+    "en": "Vitamin (n)",
+    "ipa": "/ˈvɪt.ə.mɪn/",
+    "vi": "Vitamin"
+  },
+  {
+    "en": "Immune system (n)",
+    "ipa": "/ɪˈmjuːn ˌsɪs.təm/",
+    "vi": "Hệ miễn dịch"
+  },
+  {
+    "en": "Hygiene (n)",
+    "ipa": "/ˈhaɪ.dʒiːn/",
+    "vi": "Vệ sinh cá nhân"
+  },
+  {
+    "en": "Mental health (n)",
+    "ipa": "/ˈmen.təl hɛlθ/",
+    "vi": "Sức khỏe tinh thần"
+  },
+  {
+    "en": "Physical health (n)",
+    "ipa": "/ˈfɪz.ɪ.kəl hɛlθ/",
+    "vi": "Sức khỏe thể chất"
+  },
+  {
+    "en": "Disease (n)",
+    "ipa": "/dɪˈziːz/",
+    "vi": "Bệnh tật"
+  },
+  {
+    "en": "Illness (n)",
+    "ipa": "/ˈɪl.nəs/",
+    "vi": "Căn bệnh"
+  },
+  {
+    "en": "Symptom (n)",
+    "ipa": "/ˈsɪmp.təm/",
+    "vi": "Triệu chứng"
+  },
+  {
+    "en": "Fever (n)",
+    "ipa": "/ˈfiː.vər/",
+    "vi": "Sốt"
+  },
+  {
+    "en": "Headache (n)",
+    "ipa": "/ˈhɛd.eɪk/",
+    "vi": "Đau đầu"
+  },
+  {
+    "en": "Cough (n)",
+    "ipa": "/kɒf/",
+    "vi": "Ho"
+  },
+  {
+    "en": "Fatigue (n)",
+    "ipa": "/fəˈtiːɡ/",
+    "vi": "Sự mệt mỏi"
+  },
+  {
+    "en": "Stress (n)",
+    "ipa": "/stres/",
+    "vi": "Căng thẳng"
+  },
+  {
+    "en": "Depression (n)",
+    "ipa": "/dɪˈpreʃ.ən/",
+    "vi": "Trầm cảm"
+  },
+  {
+    "en": "Exercise (n/v)",
+    "ipa": "/ˈek.sə.saɪz/",
+    "vi": "Tập thể dục"
+  },
+  {
+    "en": "Yoga (n)",
+    "ipa": "/ˈjəʊ.ɡə/",
+    "vi": "Yoga"
+  },
+  {
+    "en": "Meditation (n)",
+    "ipa": "/ˌmed.ɪˈteɪ.ʃən/",
+    "vi": "Thiền"
+  },
+  {
+    "en": "Sleep (n/v)",
+    "ipa": "/sliːp/",
+    "vi": "Giấc ngủ, ngủ"
+  },
+  {
+    "en": "Insomnia (n)",
+    "ipa": "/ɪnˈsɒm.ni.ə/",
+    "vi": "Chứng mất ngủ"
+  },
+  {
+    "en": "Therapy (n)",
+    "ipa": "/ˈθer.ə.pi/",
+    "vi": "Liệu pháp"
+  },
+  {
+    "en": "Treatment (n)",
+    "ipa": "/ˈtriːt.mənt/",
+    "vi": "Điều trị"
+  },
+  {
+    "en": "Vaccination (n)",
+    "ipa": "/ˌvæk.sɪˈneɪ.ʃən/",
+    "vi": "Tiêm chủng"
+  },
+  {
+    "en": "Healthcare (n)",
+    "ipa": "/ˈhɛlθ.keər/",
+    "vi": "Chăm sóc sức khỏe"
+  },
+  {
+    "en": "Recovery (n)",
+    "ipa": "/rɪˈkʌv.ər.i/",
+    "vi": "Sự hồi phục"
+  },
+  {
+    "en": "Flower (n)",
+    "ipa": "/ˈflaʊ.ər/",
+    "vi": "Hoa, bông hoa"
+  },
+  {
+    "en": "Rose (n)",
+    "ipa": "/rəʊz/",
+    "vi": "Hoa hồng"
+  },
+  {
+    "en": "Lotus (n)",
+    "ipa": "/ˈləʊ.təs/",
+    "vi": "Hoa sen"
+  },
+  {
+    "en": "Daisy (n)",
+    "ipa": "/ˈdeɪ.zi/",
+    "vi": "Hoa cúc họa mi"
+  },
+  {
+    "en": "Tulip (n)",
+    "ipa": "/ˈtjuː.lɪp/",
+    "vi": "Hoa tulip"
+  },
+  {
+    "en": "Orchid (n)",
+    "ipa": "/ˈɔː.kɪd/",
+    "vi": "Hoa lan"
+  },
+  {
+    "en": "Sunflower (n)",
+    "ipa": "/ˈsʌnˌflaʊ.ər/",
+    "vi": "Hoa hướng dương"
+  },
+  {
+    "en": "Lily (n)",
+    "ipa": "/ˈlɪl.i/",
+    "vi": "Hoa ly"
+  },
+  {
+    "en": "Daisy (n)",
+    "ipa": "/ˈdeɪ.zi/",
+    "vi": "Hoa cúc"
+  },
+  {
+    "en": "Carnation (n)",
+    "ipa": "/kɑːˈneɪ.ʃən/",
+    "vi": "Hoa cẩm chướng"
+  },
+  {
+    "en": "Peony (n)",
+    "ipa": "/ˈpiː.ə.ni/",
+    "vi": "Hoa mẫu đơn"
+  },
+  {
+    "en": "Cherry blossom (n)",
+    "ipa": "/ˈtʃɛr.i ˈblɒs.əm/",
+    "vi": "Hoa anh đào"
+  },
+  {
+    "en": "Dandelion (n)",
+    "ipa": "/ˈdæn.dɪ.laɪ.ən/",
+    "vi": "Hoa bồ công anh"
+  },
+  {
+    "en": "Marigold (n)",
+    "ipa": "/ˈmær.ɪ.ɡəʊld/",
+    "vi": "Hoa cúc vạn thọ"
+  },
+  {
+    "en": "Hydrangea (n)",
+    "ipa": "/haɪˈdreɪn.dʒə/",
+    "vi": "Hoa cẩm tú cầu"
+  },
+  {
+    "en": "Lavender (n)",
+    "ipa": "/ˈlæv.ən.dər/",
+    "vi": "Hoa oải hương"
+  },
+  {
+    "en": "Hibiscus (n)",
+    "ipa": "/hɪˈbɪs.kəs/",
+    "vi": "Hoa dâm bụt"
+  },
+  {
+    "en": "Gladiolus (n)",
+    "ipa": "/ˌɡlæd.iˈəʊ.ləs/",
+    "vi": "Hoa lay ơn"
+  },
+  {
+    "en": "Poppy (n)",
+    "ipa": "/ˈpɒp.i/",
+    "vi": "Hoa anh túc"
+  },
+  {
+    "en": "Jasmine (n)",
+    "ipa": "/ˈdʒæz.mɪn/",
+    "vi": "Hoa nhài"
+  },
+  {
+    "en": "Chrysanthemum (n)",
+    "ipa": "/krɪˈsæn.θə.məm/",
+    "vi": "Hoa cúc đại đóa"
+  },
+  {
+    "en": "Camellia (n)",
+    "ipa": "/kəˈmiː.li.ə/",
+    "vi": "Hoa trà"
+  },
+  {
+    "en": "Begonia (n)",
+    "ipa": "/bɪˈɡəʊ.ni.ə/",
+    "vi": "Hoa thu hải đường"
+  },
+  {
+    "en": "Magnolia (n)",
+    "ipa": "/mæɡˈnəʊ.li.ə/",
+    "vi": "Hoa mộc lan"
+  },
+  {
+    "en": "Bluebell (n)",
+    "ipa": "/ˈbluː.bel/",
+    "vi": "Hoa chuông xanh"
+  },
+  {
+    "en": "Morning glory (n)",
+    "ipa": "/ˈmɔː.nɪŋ ˈɡlɔː.ri/",
+    "vi": "Hoa bìm bìm"
+  },
+  {
+    "en": "Snowdrop (n)",
+    "ipa": "/ˈsnəʊ.drɒp/",
+    "vi": "Hoa tuyết điểm"
+  },
+  {
+    "en": "Forget-me-not (n)",
+    "ipa": "/fəˈɡet.mi.nɒt/",
+    "vi": "Hoa lưu ly"
+  },
+  {
+    "en": "Foxglove (n)",
+    "ipa": "/ˈfɒks.ɡlʌv/",
+    "vi": "Hoa mao địa hoàng"
+  },
+  {
+    "en": "Movie (n)",
+    "ipa": "/ˈmuː.vi/",
+    "vi": "Phim điện ảnh"
+  },
+  {
+    "en": "Film (n)",
+    "ipa": "/fɪlm/",
+    "vi": "Bộ phim"
+  },
+  {
+    "en": "Genre (n)",
+    "ipa": "/ˈʒɒn.rə/",
+    "vi": "Thể loại phim"
+  },
+  {
+    "en": "Actor (n)",
+    "ipa": "/ˈæk.tər/",
+    "vi": "Nam diễn viên"
+  },
+  {
+    "en": "Actress (n)",
+    "ipa": "/ˈæk.trəs/",
+    "vi": "Nữ diễn viên"
+  },
+  {
+    "en": "Director (n)",
+    "ipa": "/daɪˈrek.tər/",
+    "vi": "Đạo diễn"
+  },
+  {
+    "en": "Producer (n)",
+    "ipa": "/prəˈdjuː.sər/",
+    "vi": "Nhà sản xuất"
+  },
+  {
+    "en": "Script (n)",
+    "ipa": "/skrɪpt/",
+    "vi": "Kịch bản"
+  },
+  {
+    "en": "Screenplay (n)",
+    "ipa": "/ˈskriːn.pleɪ/",
+    "vi": "Kịch bản phim"
+  },
+  {
+    "en": "Scene (n)",
+    "ipa": "/siːn/",
+    "vi": "Cảnh phim"
+  },
+  {
+    "en": "Plot (n)",
+    "ipa": "/plɒt/",
+    "vi": "Cốt truyện"
+  },
+  {
+    "en": "Trailer (n)",
+    "ipa": "/ˈtreɪ.lər/",
+    "vi": "Đoạn giới thiệu phim"
+  },
+  {
+    "en": "Soundtrack (n)",
+    "ipa": "/ˈsaʊnd.træk/",
+    "vi": "Nhạc phim"
+  },
+  {
+    "en": "Special effects (n)",
+    "ipa": "/ˌspeʃ.əl ɪˈfekts/",
+    "vi": "Hiệu ứng đặc biệt"
+  },
+  {
+    "en": "Animation (n)",
+    "ipa": "/ˌæn.ɪˈmeɪ.ʃən/",
+    "vi": "Hoạt hình"
+  },
+  {
+    "en": "Action movie (n)",
+    "ipa": "/ˈæk.ʃən ˈmuː.vi/",
+    "vi": "Phim hành động"
+  },
+  {
+    "en": "Comedy (n)",
+    "ipa": "/ˈkɒm.ə.di/",
+    "vi": "Phim hài"
+  },
+  {
+    "en": "Drama (n)",
+    "ipa": "/ˈdrɑː.mə/",
+    "vi": "Phim tâm lý, chính kịch"
+  },
+  {
+    "en": "Horror movie (n)",
+    "ipa": "/ˈhɒr.ər ˈmuː.vi/",
+    "vi": "Phim kinh dị"
+  },
+  {
+    "en": "Sci-fi movie (n)",
+    "ipa": "/ˈsaɪ.faɪ ˈmuː.vi/",
+    "vi": "Phim khoa học viễn tưởng"
+  },
+  {
+    "en": "Fantasy movie (n)",
+    "ipa": "/ˈfæn.tə.si ˈmuː.vi/",
+    "vi": "Phim giả tưởng"
+  },
+  {
+    "en": "Romance movie (n)",
+    "ipa": "/rəʊˈmæns ˈmuː.vi/",
+    "vi": "Phim tình cảm"
+  },
+  {
+    "en": "Thriller (n)",
+    "ipa": "/ˈθrɪl.ər/",
+    "vi": "Phim ly kỳ"
+  },
+  {
+    "en": "Documentary (n)",
+    "ipa": "/ˌdɒk.jəˈmen.tər.i/",
+    "vi": "Phim tài liệu"
+  },
+  {
+    "en": "Blockbuster (n)",
+    "ipa": "/ˈblɒkˌbʌs.tər/",
+    "vi": "Phim bom tấn"
+  },
+  {
+    "en": "Sequel (n)",
+    "ipa": "/ˈsiː.kwəl/",
+    "vi": "Phần tiếp theo của phim"
+  },
+  {
+    "en": "Prequel (n)",
+    "ipa": "/ˈpriː.kwəl/",
+    "vi": "Phần tiền truyện"
+  },
+  {
+    "en": "Dubbed movie (n)",
+    "ipa": "/dʌbd ˈmuː.vi/",
+    "vi": "Phim lồng tiếng"
+  },
+  {
+    "en": "Subtitles (n)",
+    "ipa": "/ˈsʌb.taɪ.təlz/",
+    "vi": "Phụ đề"
+  },
+  {
+    "en": "Seafood (n)",
+    "ipa": "/ˈsiː.fuːd/",
+    "vi": "Hải sản"
+  },
+  {
+    "en": "Fish (n)",
+    "ipa": "/fɪʃ/",
+    "vi": "Cá"
+  },
+  {
+    "en": "Salmon (n)",
+    "ipa": "/ˈsæm.ən/",
+    "vi": "Cá hồi"
+  },
+  {
+    "en": "Tuna (n)",
+    "ipa": "/ˈtjuː.nə/",
+    "vi": "Cá ngừ"
+  },
+  {
+    "en": "Mackerel (n)",
+    "ipa": "/ˈmæk.rəl/",
+    "vi": "Cá thu"
+  },
+  {
+    "en": "Sardine (n)",
+    "ipa": "/sɑːˈdiːn/",
+    "vi": "Cá mòi"
+  },
+  {
+    "en": "Anchovy (n)",
+    "ipa": "/ˈæn.tʃə.vi/",
+    "vi": "Cá cơm"
+  },
+  {
+    "en": "Cod (n)",
+    "ipa": "/kɒd/",
+    "vi": "Cá tuyết"
+  },
+  {
+    "en": "Eel (n)",
+    "ipa": "/iːl/",
+    "vi": "Lươn"
+  },
+  {
+    "en": "Shrimp (n)",
+    "ipa": "/ʃrɪmp/",
+    "vi": "Tôm nhỏ"
+  },
+  {
+    "en": "Prawn (n)",
+    "ipa": "/prɔːn/",
+    "vi": "Tôm to"
+  },
+  {
+    "en": "Lobster (n)",
+    "ipa": "/ˈlɒb.stər/",
+    "vi": "Tôm hùm"
+  },
+  {
+    "en": "Crab (n)",
+    "ipa": "/kræb/",
+    "vi": "Cua"
+  },
+  {
+    "en": "Squid (n)",
+    "ipa": "/skwɪd/",
+    "vi": "Mực"
+  },
+  {
+    "en": "Octopus (n)",
+    "ipa": "/ˈɒk.tə.pəs/",
+    "vi": "Bạch tuộc"
+  },
+  {
+    "en": "Clam (n)",
+    "ipa": "/klæm/",
+    "vi": "Nghêu, sò"
+  },
+  {
+    "en": "Mussel (n)",
+    "ipa": "/ˈmʌs.əl/",
+    "vi": "Trai"
+  },
+  {
+    "en": "Oyster (n)",
+    "ipa": "/ˈɔɪ.stər/",
+    "vi": "Hàu"
+  },
+  {
+    "en": "Scallop (n)",
+    "ipa": "/ˈskɒl.əp/",
+    "vi": "Sò điệp"
+  },
+  {
+    "en": "Sea urchin (n)",
+    "ipa": "/ˈsiː ˌɜː.tʃɪn/",
+    "vi": "Cầu gai, nhím biển"
+  },
+  {
+    "en": "Sea cucumber (n)",
+    "ipa": "/ˈsiː ˈkjuː.kʌm.bər/",
+    "vi": "Hải sâm"
+  },
+  {
+    "en": "Cuttlefish (n)",
+    "ipa": "/ˈkʌt.l̩.fɪʃ/",
+    "vi": "Mực nang"
+  },
+  {
+    "en": "Roe (n)",
+    "ipa": "/rəʊ/",
+    "vi": "Trứng cá"
+  },
+  {
+    "en": "Fish sauce (n)",
+    "ipa": "/fɪʃ sɔːs/",
+    "vi": "Nước mắm"
+  },
+  {
+    "en": "Dried seafood (n)",
+    "ipa": "/draɪd ˈsiː.fuːd/",
+    "vi": "Hải sản khô"
+  },
+  {
+    "en": "Fresh seafood (n)",
+    "ipa": "/freʃ ˈsiː.fuːd/",
+    "vi": "Hải sản tươi"
+  },
+  {
+    "en": "Smoked salmon (n)",
+    "ipa": "/sməʊkt ˈsæm.ən/",
+    "vi": "Cá hồi hun khói"
+  },
+  {
+    "en": "Pickled fish (n)",
+    "ipa": "/ˈpɪk.l̩d fɪʃ/",
+    "vi": "Cá muối chua"
+  },
+  {
+    "en": "Post office (n)",
+    "ipa": "/pəʊst ˈɒf.ɪs/",
+    "vi": "Bưu điện"
+  },
+  {
+    "en": "Mail (n)",
+    "ipa": "/meɪl/",
+    "vi": "Thư tín, bưu phẩm"
+  },
+  {
+    "en": "Letter (n)",
+    "ipa": "/ˈlet.ər/",
+    "vi": "Thư"
+  },
+  {
+    "en": "Envelope (n)",
+    "ipa": "/ˈen.və.ləʊp/",
+    "vi": "Phong bì"
+  },
+  {
+    "en": "Stamp (n)",
+    "ipa": "/stæmp/",
+    "vi": "Tem thư"
+  },
+  {
+    "en": "Parcel (n)",
+    "ipa": "/ˈpɑː.səl/",
+    "vi": "Bưu kiện"
+  },
+  {
+    "en": "Package (n)",
+    "ipa": "/ˈpæk.ɪdʒ/",
+    "vi": "Gói hàng"
+  },
+  {
+    "en": "Postcard (n)",
+    "ipa": "/ˈpəʊst.kɑːd/",
+    "vi": "Bưu thiếp"
+  },
+  {
+    "en": "Address (n)",
+    "ipa": "/əˈdres/",
+    "vi": "Địa chỉ"
+  },
+  {
+    "en": "Sender (n)",
+    "ipa": "/ˈsen.dər/",
+    "vi": "Người gửi"
+  },
+  {
+    "en": "Recipient (n)",
+    "ipa": "/rɪˈsɪp.i.ənt/",
+    "vi": "Người nhận"
+  },
+  {
+    "en": "Mailbox (n)",
+    "ipa": "/ˈmeɪl.bɒks/",
+    "vi": "Hòm thư"
+  },
+  {
+    "en": "Delivery (n)",
+    "ipa": "/dɪˈlɪv.ər.i/",
+    "vi": "Sự giao hàng"
+  },
+  {
+    "en": "Courier (n)",
+    "ipa": "/ˈkʊr.i.ər/",
+    "vi": "Người giao hàng"
+  },
+  {
+    "en": "Express mail (n)",
+    "ipa": "/ɪkˈspres meɪl/",
+    "vi": "Chuyển phát nhanh"
+  },
+  {
+    "en": "Registered mail (n)",
+    "ipa": "/ˈredʒ.ɪ.stəd meɪl/",
+    "vi": "Thư bảo đảm"
+  },
+  {
+    "en": "Air mail (n)",
+    "ipa": "/eə meɪl/",
+    "vi": "Thư gửi đường hàng không"
+  },
+  {
+    "en": "Surface mail (n)",
+    "ipa": "/ˈsɜː.fɪs meɪl/",
+    "vi": "Thư gửi đường bộ, biển"
+  },
+  {
+    "en": "Tracking number (n)",
+    "ipa": "/ˈtræk.ɪŋ ˈnʌm.bər/",
+    "vi": "Mã vận đơn"
+  },
+  {
+    "en": "Weigh (v)",
+    "ipa": "/weɪ/",
+    "vi": "Cân (bưu phẩm)"
+  },
+  {
+    "en": "Postage (n)",
+    "ipa": "/ˈpəʊ.stɪdʒ/",
+    "vi": "Cước phí bưu điện"
+  },
+  {
+    "en": "Mail carrier (n)",
+    "ipa": "/meɪl ˈkær.i.ər/",
+    "vi": "Người đưa thư"
+  },
+  {
+    "en": "Postal code (n)",
+    "ipa": "/ˈpəʊ.stəl kəʊd/",
+    "vi": "Mã bưu điện"
+  },
+  {
+    "en": "Customs declaration (n)",
+    "ipa": "/ˈkʌs.təmz ˌdek.ləˈreɪ.ʃən/",
+    "vi": "Tờ khai hải quan"
+  },
+  {
+    "en": "Letterbox (n)",
+    "ipa": "/ˈlet.ər.bɒks/",
+    "vi": "Hộp thư"
+  },
+  {
+    "en": "PO Box (n)",
+    "ipa": "/ˌpiːˈəʊ bɒks/",
+    "vi": "Hộp thư bưu điện"
+  },
+  {
+    "en": "Sorting center (n)",
+    "ipa": "/ˈsɔː.tɪŋ ˈsen.tər/",
+    "vi": "Trung tâm phân loại thư"
+  },
+  {
+    "en": "Lost package (n)",
+    "ipa": "/lɒst ˈpæk.ɪdʒ/",
+    "vi": "Bưu kiện thất lạc"
+  },
+  {
+    "en": "Return address (n)",
+    "ipa": "/rɪˈtɜːn əˈdres/",
+    "vi": "Địa chỉ người gửi"
+  },
+  {
+    "en": "Bank (n)",
+    "ipa": "/bæŋk/",
+    "vi": "Ngân hàng"
+  },
+  {
+    "en": "Account (n)",
+    "ipa": "/əˈkaʊnt/",
+    "vi": "Tài khoản"
+  },
+  {
+    "en": "Savings account (n)",
+    "ipa": "/ˈseɪ.vɪŋz əˌkaʊnt/",
+    "vi": "Tài khoản tiết kiệm"
+  },
+  {
+    "en": "Checking account (n)",
+    "ipa": "/ˈtʃek.ɪŋ əˌkaʊnt/",
+    "vi": "Tài khoản thanh toán"
+  },
+  {
+    "en": "Deposit (n/v)",
+    "ipa": "/dɪˈpɒz.ɪt/",
+    "vi": "Gửi tiền, khoản tiền gửi"
+  },
+  {
+    "en": "Withdrawal (n)",
+    "ipa": "/wɪðˈdrɔː.əl/",
+    "vi": "Rút tiền"
+  },
+  {
+    "en": "Transfer (n/v)",
+    "ipa": "/ˈtræns.fɜːr/",
+    "vi": "Chuyển khoản"
+  },
+  {
+    "en": "Balance (n)",
+    "ipa": "/ˈbæl.əns/",
+    "vi": "Số dư tài khoản"
+  },
+  {
+    "en": "Interest rate (n)",
+    "ipa": "/ˈɪn.trɪst reɪt/",
+    "vi": "Lãi suất"
+  },
+  {
+    "en": "Loan (n)",
+    "ipa": "/ləʊn/",
+    "vi": "Khoản vay"
+  },
+  {
+    "en": "Mortgage (n)",
+    "ipa": "/ˈmɔː.ɡɪdʒ/",
+    "vi": "Thế chấp"
+  },
+  {
+    "en": "Credit (n)",
+    "ipa": "/ˈkrɛd.ɪt/",
+    "vi": "Tín dụng"
+  },
+  {
+    "en": "Debt (n)",
+    "ipa": "/det/",
+    "vi": "Nợ"
+  },
+  {
+    "en": "Overdraft (n)",
+    "ipa": "/ˈəʊ.və.drɑːft/",
+    "vi": "Thấu chi"
+  },
+  {
+    "en": "ATM (n)",
+    "ipa": "/ˌeɪ.tiːˈem/",
+    "vi": "Máy rút tiền tự động"
+  },
+  {
+    "en": "PIN (n)",
+    "ipa": "/pɪn/",
+    "vi": "Mã PIN"
+  },
+  {
+    "en": "Online banking (n)",
+    "ipa": "/ˈɒn.laɪn ˈbæŋ.kɪŋ/",
+    "vi": "Ngân hàng trực tuyến"
+  },
+  {
+    "en": "Mobile banking (n)",
+    "ipa": "/ˈməʊ.baɪl ˈbæŋ.kɪŋ/",
+    "vi": "Ngân hàng di động"
+  },
+  {
+    "en": "Wire transfer (n)",
+    "ipa": "/waɪər ˈtræns.fɜːr/",
+    "vi": "Chuyển khoản điện tử"
+  },
+  {
+    "en": "Cash (n)",
+    "ipa": "/kæʃ/",
+    "vi": "Tiền mặt"
+  },
+  {
+    "en": "Check (n)",
+    "ipa": "/tʃek/",
+    "vi": "Séc"
+  },
+  {
+    "en": "Credit card (n)",
+    "ipa": "/ˈkrɛd.ɪt kɑːrd/",
+    "vi": "Thẻ tín dụng"
+  },
+  {
+    "en": "Debit card (n)",
+    "ipa": "/ˈdeb.ɪt kɑːrd/",
+    "vi": "Thẻ ghi nợ"
+  },
+  {
+    "en": "Service fee (n)",
+    "ipa": "/ˈsɜː.vɪs fiː/",
+    "vi": "Phí dịch vụ"
+  },
+  {
+    "en": "Currency (n)",
+    "ipa": "/ˈkʌr.ən.si/",
+    "vi": "Tiền tệ"
+  },
+  {
+    "en": "Exchange rate (n)",
+    "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+    "vi": "Tỷ giá hối đoái"
+  },
+  {
+    "en": "Foreign exchange (n)",
+    "ipa": "/ˈfɒr.ɪn ɪksˈtʃeɪndʒ/",
+    "vi": "Ngoại hối"
+  },
+  {
+    "en": "Safe deposit box (n)",
+    "ipa": "/seɪf dɪˈpɒz.ɪt bɒks/",
+    "vi": "Két an toàn"
+  },
+  {
+    "en": "Teller (n)",
+    "ipa": "/ˈtel.ər/",
+    "vi": "Giao dịch viên ngân hàng"
+  },
+  {
+    "en": "Clothes (n)",
+    "ipa": "/kləʊðz/",
+    "vi": "Quần áo"
+  },
+  {
+    "en": "Outfit (n)",
+    "ipa": "/ˈaʊt.fɪt/",
+    "vi": "Trang phục"
+  },
+  {
+    "en": "Clothing (n)",
+    "ipa": "/ˈkləʊ.ðɪŋ/",
+    "vi": "Quần áo (nói chung)"
+  },
+  {
+    "en": "Garment (n)",
+    "ipa": "/ˈɡɑː.mənt/",
+    "vi": "Trang phục, áo quần"
+  },
+  {
+    "en": "Uniform (n)",
+    "ipa": "/ˈjuː.nɪ.fɔːm/",
+    "vi": "Đồng phục"
+  },
+  {
+    "en": "Casual wear (n)",
+    "ipa": "/ˈkæʒ.u.əl weər/",
+    "vi": "Trang phục thường ngày"
+  },
+  {
+    "en": "Formal wear (n)",
+    "ipa": "/ˈfɔː.məl weər/",
+    "vi": "Trang phục trang trọng"
+  },
+  {
+    "en": "Suit (n)",
+    "ipa": "/suːt/",
+    "vi": "Bộ vest"
+  },
+  {
+    "en": "Tuxedo (n)",
+    "ipa": "/tʌkˈsiː.dəʊ/",
+    "vi": "Bộ lễ phục nam"
+  },
+  {
+    "en": "Shirt (n)",
+    "ipa": "/ʃɜːt/",
+    "vi": "Áo sơ mi"
+  },
+  {
+    "en": "T-shirt (n)",
+    "ipa": "/ˈtiː.ʃɜːt/",
+    "vi": "Áo thun"
+  },
+  {
+    "en": "Polo shirt (n)",
+    "ipa": "/ˈpəʊ.ləʊ ʃɜːt/",
+    "vi": "Áo polo"
+  },
+  {
+    "en": "Blouse (n)",
+    "ipa": "/blaʊs/",
+    "vi": "Áo sơ mi nữ"
+  },
+  {
+    "en": "Tank top (n)",
+    "ipa": "/ˈtæŋk ˌtɒp/",
+    "vi": "Áo ba lỗ"
+  },
+  {
+    "en": "Sweater (n)",
+    "ipa": "/ˈswet.ər/",
+    "vi": "Áo len dài tay"
+  },
+  {
+    "en": "Hoodie (n)",
+    "ipa": "/ˈhʊd.i/",
+    "vi": "Áo có mũ trùm"
+  },
+  {
+    "en": "Jacket (n)",
+    "ipa": "/ˈdʒæk.ɪt/",
+    "vi": "Áo khoác ngắn"
+  },
+  {
+    "en": "Coat (n)",
+    "ipa": "/kəʊt/",
+    "vi": "Áo khoác dài"
+  },
+  {
+    "en": "Raincoat (n)",
+    "ipa": "/ˈreɪn.kəʊt/",
+    "vi": "Áo mưa"
+  },
+  {
+    "en": "Jeans (n)",
+    "ipa": "/dʒiːnz/",
+    "vi": "Quần bò"
+  },
+  {
+    "en": "Trousers (n)",
+    "ipa": "/ˈtraʊ.zəz/",
+    "vi": "Quần dài"
+  },
+  {
+    "en": "Pants (n)",
+    "ipa": "/pænts/",
+    "vi": "Quần (Anh-Mỹ)"
+  },
+  {
+    "en": "Shorts (n)",
+    "ipa": "/ʃɔːts/",
+    "vi": "Quần đùi"
+  },
+  {
+    "en": "Leggings (n)",
+    "ipa": "/ˈleɡ.ɪŋz/",
+    "vi": "Quần legging"
+  },
+  {
+    "en": "Skirt (n)",
+    "ipa": "/skɜːt/",
+    "vi": "Chân váy"
+  },
+  {
+    "en": "Dress (n)",
+    "ipa": "/dres/",
+    "vi": "Váy liền"
+  },
+  {
+    "en": "Gown (n)",
+    "ipa": "/ɡaʊn/",
+    "vi": "Váy dạ hội"
+  },
+  {
+    "en": "Pajamas (n)",
+    "ipa": "/pəˈdʒɑː.məz/",
+    "vi": "Đồ ngủ"
+  },
+  {
+    "en": "Bathrobe (n)",
+    "ipa": "/ˈbɑːθ.rəʊb/",
+    "vi": "Áo choàng tắm"
+  },
+  {
+    "en": "Underwear (n)",
+    "ipa": "/ˈʌn.də.weər/",
+    "vi": "Đồ lót"
+  },
+  {
+    "en": "Bra (n)",
+    "ipa": "/brɑː/",
+    "vi": "Áo ngực"
+  },
+  {
+    "en": "Panties (n)",
+    "ipa": "/ˈpæn.tiz/",
+    "vi": "Quần lót nữ"
+  },
+  {
+    "en": "Briefs (n)",
+    "ipa": "/briːfs/",
+    "vi": "Quần lót nam"
+  },
+  {
+    "en": "Socks (n)",
+    "ipa": "/sɒks/",
+    "vi": "Tất, vớ"
+  },
+  {
+    "en": "Stockings (n)",
+    "ipa": "/ˈstɒk.ɪŋz/",
+    "vi": "Tất dài"
+  },
+  {
+    "en": "Shoes (n)",
+    "ipa": "/ʃuːz/",
+    "vi": "Giày"
+  },
+  {
+    "en": "Sneakers (n)",
+    "ipa": "/ˈsniː.kəz/",
+    "vi": "Giày thể thao"
+  },
+  {
+    "en": "Sandals (n)",
+    "ipa": "/ˈsæn.dəlz/",
+    "vi": "Dép xăng đan"
+  },
+  {
+    "en": "Flip-flops (n)",
+    "ipa": "/ˈflɪp.flɒps/",
+    "vi": "Dép tông"
+  },
+  {
+    "en": "Boots (n)",
+    "ipa": "/buːts/",
+    "vi": "Ủng, bốt"
+  },
+  {
+    "en": "High heels (n)",
+    "ipa": "/ˌhaɪ ˈhiːlz/",
+    "vi": "Giày cao gót"
+  },
+  {
+    "en": "Hat (n)",
+    "ipa": "/hæt/",
+    "vi": "Mũ rộng vành"
+  },
+  {
+    "en": "Cap (n)",
+    "ipa": "/kæp/",
+    "vi": "Mũ lưỡi trai"
+  },
+  {
+    "en": "Scarf (n)",
+    "ipa": "/skɑːf/",
+    "vi": "Khăn quàng cổ"
+  },
+  {
+    "en": "Gloves (n)",
+    "ipa": "/ɡlʌvz/",
+    "vi": "Găng tay"
+  },
+  {
+    "en": "Belt (n)",
+    "ipa": "/belt/",
+    "vi": "Thắt lưng"
+  },
+  {
+    "en": "Tie (n)",
+    "ipa": "/taɪ/",
+    "vi": "Cà vạt"
+  },
+  {
+    "en": "Bow tie (n)",
+    "ipa": "/ˌbəʊ ˈtaɪ/",
+    "vi": "Nơ đeo cổ nam"
+  },
+  {
+    "en": "Sunglasses (n)",
+    "ipa": "/ˈsʌŋˌɡlɑː.sɪz/",
+    "vi": "Kính râm"
+  },
+  {
+    "en": "Kind (adj)",
+    "ipa": "/kaɪnd/",
+    "vi": "Tốt bụng, tử tế"
+  },
+  {
+    "en": "Friendly (adj)",
+    "ipa": "/ˈfrend.li/",
+    "vi": "Thân thiện"
+  },
+  {
+    "en": "Generous (adj)",
+    "ipa": "/ˈdʒen.ər.əs/",
+    "vi": "Hào phóng"
+  },
+  {
+    "en": "Honest (adj)",
+    "ipa": "/ˈɒn.ɪst/",
+    "vi": "Trung thực"
+  },
+  {
+    "en": "Hardworking (adj)",
+    "ipa": "/ˈhɑːdˌwɜː.kɪŋ/",
+    "vi": "Chăm chỉ"
+  },
+  {
+    "en": "Patient (adj)",
+    "ipa": "/ˈpeɪ.ʃənt/",
+    "vi": "Kiên nhẫn"
+  },
+  {
+    "en": "Polite (adj)",
+    "ipa": "/pəˈlaɪt/",
+    "vi": "Lịch sự"
+  },
+  {
+    "en": "Humble (adj)",
+    "ipa": "/ˈhʌm.bəl/",
+    "vi": "Khiêm tốn"
+  },
+  {
+    "en": "Confident (adj)",
+    "ipa": "/ˈkɒn.fɪ.dənt/",
+    "vi": "Tự tin"
+  },
+  {
+    "en": "Optimistic (adj)",
+    "ipa": "/ˌɒp.tɪˈmɪs.tɪk/",
+    "vi": "Lạc quan"
+  },
+  {
+    "en": "Brave (adj)",
+    "ipa": "/breɪv/",
+    "vi": "Dũng cảm"
+  },
+  {
+    "en": "Responsible (adj)",
+    "ipa": "/rɪˈspɒn.sɪ.bl̩/",
+    "vi": "Có trách nhiệm"
+  },
+  {
+    "en": "Creative (adj)",
+    "ipa": "/kriˈeɪ.tɪv/",
+    "vi": "Sáng tạo"
+  },
+  {
+    "en": "Reliable (adj)",
+    "ipa": "/rɪˈlaɪ.ə.bl̩/",
+    "vi": "Đáng tin cậy"
+  },
+  {
+    "en": "Rude (adj)",
+    "ipa": "/ruːd/",
+    "vi": "Thô lỗ, bất lịch sự"
+  },
+  {
+    "en": "Selfish (adj)",
+    "ipa": "/ˈsel.fɪʃ/",
+    "vi": "Ích kỷ"
+  },
+  {
+    "en": "Lazy (adj)",
+    "ipa": "/ˈleɪ.zi/",
+    "vi": "Lười biếng"
+  },
+  {
+    "en": "Arrogant (adj)",
+    "ipa": "/ˈær.ə.ɡənt/",
+    "vi": "Kiêu ngạo"
+  },
+  {
+    "en": "Stubborn (adj)",
+    "ipa": "/ˈstʌb.ən/",
+    "vi": "Cứng đầu, bướng bỉnh"
+  },
+  {
+    "en": "Pessimistic (adj)",
+    "ipa": "/ˌpes.ɪˈmɪs.tɪk/",
+    "vi": "Bi quan"
+  },
+  {
+    "en": "Impatient (adj)",
+    "ipa": "/ɪmˈpeɪ.ʃənt/",
+    "vi": "Nóng nảy, thiếu kiên nhẫn"
+  },
+  {
+    "en": "Jealous (adj)",
+    "ipa": "/ˈdʒel.əs/",
+    "vi": "Ghen tị"
+  },
+  {
+    "en": "Moody (adj)",
+    "ipa": "/ˈmuː.di/",
+    "vi": "Tính khí thất thường"
+  },
+  {
+    "en": "Aggressive (adj)",
+    "ipa": "/əˈɡres.ɪv/",
+    "vi": "Hung hăng"
+  },
+  {
+    "en": "Nervous (adj)",
+    "ipa": "/ˈnɜː.vəs/",
+    "vi": "Lo lắng, bồn chồn"
+  },
+  {
+    "en": "Vegetable (n)",
+    "ipa": "/ˈvedʒ.tə.bəl/",
+    "vi": "Rau củ"
+  },
+  {
+    "en": "Carrot (n)",
+    "ipa": "/ˈkær.ət/",
+    "vi": "Cà rốt"
+  },
+  {
+    "en": "Potato (n)",
+    "ipa": "/pəˈteɪ.təʊ/",
+    "vi": "Khoai tây"
+  },
+  {
+    "en": "Sweet potato (n)",
+    "ipa": "/swiːt pəˈteɪ.təʊ/",
+    "vi": "Khoai lang"
+  },
+  {
+    "en": "Tomato (n)",
+    "ipa": "/təˈmɑː.təʊ/",
+    "vi": "Cà chua"
+  },
+  {
+    "en": "Onion (n)",
+    "ipa": "/ˈʌn.jən/",
+    "vi": "Hành tây"
+  },
+  {
+    "en": "Garlic (n)",
+    "ipa": "/ˈɡɑː.lɪk/",
+    "vi": "Tỏi"
+  },
+  {
+    "en": "Cucumber (n)",
+    "ipa": "/ˈkjuː.kʌm.bər/",
+    "vi": "Dưa chuột"
+  },
+  {
+    "en": "Cabbage (n)",
+    "ipa": "/ˈkæb.ɪdʒ/",
+    "vi": "Bắp cải"
+  },
+  {
+    "en": "Lettuce (n)",
+    "ipa": "/ˈlet.ɪs/",
+    "vi": "Rau xà lách"
+  },
+  {
+    "en": "Spinach (n)",
+    "ipa": "/ˈspɪn.ɪtʃ/",
+    "vi": "Rau chân vịt"
+  },
+  {
+    "en": "Broccoli (n)",
+    "ipa": "/ˈbrɒk.əl.i/",
+    "vi": "Bông cải xanh"
+  },
+  {
+    "en": "Cauliflower (n)",
+    "ipa": "/ˈkɒl.ɪ.flaʊ.ər/",
+    "vi": "Súp lơ trắng"
+  },
+  {
+    "en": "Bell pepper (n)",
+    "ipa": "/ˈbel ˌpep.ər/",
+    "vi": "Ớt chuông"
+  },
+  {
+    "en": "Chili (n)",
+    "ipa": "/ˈtʃɪl.i/",
+    "vi": "Ớt cay"
+  },
+  {
+    "en": "Pumpkin (n)",
+    "ipa": "/ˈpʌmp.kɪn/",
+    "vi": "Bí ngô"
+  },
+  {
+    "en": "Zucchini (n)",
+    "ipa": "/zuˈkiː.ni/",
+    "vi": "Bí xanh"
+  },
+  {
+    "en": "Corn (n)",
+    "ipa": "/kɔːrn/",
+    "vi": "Ngô, bắp"
+  },
+  {
+    "en": "Pea (n)",
+    "ipa": "/piː/",
+    "vi": "Đậu Hà Lan"
+  },
+  {
+    "en": "Bean (n)",
+    "ipa": "/biːn/",
+    "vi": "Đậu"
+  },
+  {
+    "en": "Eggplant (n)",
+    "ipa": "/ˈeɡ.plɑːnt/",
+    "vi": "Cà tím"
+  },
+  {
+    "en": "Radish (n)",
+    "ipa": "/ˈræd.ɪʃ/",
+    "vi": "Củ cải đỏ"
+  },
+  {
+    "en": "Beetroot (n)",
+    "ipa": "/ˈbiːt.ruːt/",
+    "vi": "Củ dền"
+  },
+  {
+    "en": "Mushroom (n)",
+    "ipa": "/ˈmʌʃ.ruːm/",
+    "vi": "Nấm"
+  },
+  {
+    "en": "Asparagus (n)",
+    "ipa": "/əˈspær.ə.ɡəs/",
+    "vi": "Măng tây"
+  },
+  {
+    "en": "Celery (n)",
+    "ipa": "/ˈsel.ər.i/",
+    "vi": "Cần tây"
+  },
+  {
+    "en": "Ginger (n)",
+    "ipa": "/ˈdʒɪn.dʒər/",
+    "vi": "Gừng"
+  },
+  {
+    "en": "Environment (n)",
+    "ipa": "/ɪnˈvaɪ.rən.mənt/",
+    "vi": "Môi trường"
+  },
+  {
+    "en": "Nature (n)",
+    "ipa": "/ˈneɪ.tʃər/",
+    "vi": "Thiên nhiên"
+  },
+  {
+    "en": "Ecosystem (n)",
+    "ipa": "/ˈiː.kəʊˌsɪs.təm/",
+    "vi": "Hệ sinh thái"
+  },
+  {
+    "en": "Climate (n)",
+    "ipa": "/ˈklaɪ.mət/",
+    "vi": "Khí hậu"
+  },
+  {
+    "en": "Pollution (n)",
+    "ipa": "/pəˈluː.ʃən/",
+    "vi": "Ô nhiễm"
+  },
+  {
+    "en": "Air pollution (n)",
+    "ipa": "/eər pəˈluː.ʃən/",
+    "vi": "Ô nhiễm không khí"
+  },
+  {
+    "en": "Water pollution (n)",
+    "ipa": "/ˈwɔː.tər pəˌluː.ʃən/",
+    "vi": "Ô nhiễm nước"
+  },
+  {
+    "en": "Soil pollution (n)",
+    "ipa": "/sɔɪl pəˈluː.ʃən/",
+    "vi": "Ô nhiễm đất"
+  },
+  {
+    "en": "Global warming (n)",
+    "ipa": "/ˌɡləʊ.bəl ˈwɔː.mɪŋ/",
+    "vi": "Sự nóng lên toàn cầu"
+  },
+  {
+    "en": "Greenhouse effect (n)",
+    "ipa": "/ˈɡriːn.haʊs ɪˌfekt/",
+    "vi": "Hiệu ứng nhà kính"
+  },
+  {
+    "en": "Deforestation (n)",
+    "ipa": "/ˌdiː.fɒr.ɪˈsteɪ.ʃən/",
+    "vi": "Nạn phá rừng"
+  },
+  {
+    "en": "Renewable energy (n)",
+    "ipa": "/rɪˈnjuː.ə.bəl ˈen.ə.dʒi/",
+    "vi": "Năng lượng tái tạo"
+  },
+  {
+    "en": "Solar energy (n)",
+    "ipa": "/ˈsəʊ.lər ˈen.ə.dʒi/",
+    "vi": "Năng lượng mặt trời"
+  },
+  {
+    "en": "Wind power (n)",
+    "ipa": "/wɪnd ˈpaʊ.ər/",
+    "vi": "Năng lượng gió"
+  },
+  {
+    "en": "Fossil fuel (n)",
+    "ipa": "/ˈfɒs.əl ˌfjʊəl/",
+    "vi": "Nhiên liệu hóa thạch"
+  },
+  {
+    "en": "Carbon footprint (n)",
+    "ipa": "/ˈkɑː.bən ˌfʊt.prɪnt/",
+    "vi": "Dấu chân carbon"
+  },
+  {
+    "en": "Biodiversity (n)",
+    "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sɪ.ti/",
+    "vi": "Đa dạng sinh học"
+  },
+  {
+    "en": "Endangered species (n)",
+    "ipa": "/ɪnˈdeɪn.dʒəd ˈspiː.ʃiːz/",
+    "vi": "Các loài có nguy cơ tuyệt chủng"
+  },
+  {
+    "en": "Conservation (n)",
+    "ipa": "/ˌkɒn.səˈveɪ.ʃən/",
+    "vi": "Sự bảo tồn"
+  },
+  {
+    "en": "Recycling (n)",
+    "ipa": "/ˌriːˈsaɪ.klɪŋ/",
+    "vi": "Tái chế"
+  },
+  {
+    "en": "Waste (n)",
+    "ipa": "/weɪst/",
+    "vi": "Rác thải"
+  },
+  {
+    "en": "Plastic waste (n)",
+    "ipa": "/ˈplæs.tɪk weɪst/",
+    "vi": "Rác thải nhựa"
+  },
+  {
+    "en": "Sustainable (adj)",
+    "ipa": "/səˈsteɪ.nə.bəl/",
+    "vi": "Bền vững"
+  },
+  {
+    "en": "Habitat (n)",
+    "ipa": "/ˈhæb.ɪ.tæt/",
+    "vi": "Môi trường sống"
+  },
+  {
+    "en": "Natural disaster (n)",
+    "ipa": "/ˈnætʃ.ər.əl dɪˈzɑː.stər/",
+    "vi": "Thảm họa thiên nhiên"
+  },
+  {
+    "en": "Flood (n)",
+    "ipa": "/flʌd/",
+    "vi": "Lũ lụt"
+  },
+  {
+    "en": "Drought (n)",
+    "ipa": "/draʊt/",
+    "vi": "Hạn hán"
+  },
+  {
+    "en": "Earthquake (n)",
+    "ipa": "/ˈɜːθ.kweɪk/",
+    "vi": "Động đất"
+  },
+  {
+    "en": "Wildfire (n)",
+    "ipa": "/ˈwaɪld.faɪər/",
+    "vi": "Cháy rừng"
+  },
+  {
+    "en": "Animal (n)",
+    "ipa": "/ˈæn.ɪ.məl/",
+    "vi": "Động vật"
+  },
+  {
+    "en": "Pet (n)",
+    "ipa": "/pet/",
+    "vi": "Thú cưng"
+  },
+  {
+    "en": "Dog (n)",
+    "ipa": "/dɒɡ/",
+    "vi": "Chó"
+  },
+  {
+    "en": "Cat (n)",
+    "ipa": "/kæt/",
+    "vi": "Mèo"
+  },
+  {
+    "en": "Rabbit (n)",
+    "ipa": "/ˈræb.ɪt/",
+    "vi": "Thỏ"
+  },
+  {
+    "en": "Hamster (n)",
+    "ipa": "/ˈhæm.stər/",
+    "vi": "Chuột hamster"
+  },
+  {
+    "en": "Mouse (n)",
+    "ipa": "/maʊs/",
+    "vi": "Chuột"
+  },
+  {
+    "en": "Rat (n)",
+    "ipa": "/ræt/",
+    "vi": "Chuột cống"
+  },
+  {
+    "en": "Cow (n)",
+    "ipa": "/kaʊ/",
+    "vi": "Bò"
+  },
+  {
+    "en": "Buffalo (n)",
+    "ipa": "/ˈbʌf.ə.ləʊ/",
+    "vi": "Trâu"
+  },
+  {
+    "en": "Pig (n)",
+    "ipa": "/pɪɡ/",
+    "vi": "Lợn"
+  },
+  {
+    "en": "Sheep (n)",
+    "ipa": "/ʃiːp/",
+    "vi": "Cừu"
+  },
+  {
+    "en": "Goat (n)",
+    "ipa": "/ɡəʊt/",
+    "vi": "Dê"
+  },
+  {
+    "en": "Horse (n)",
+    "ipa": "/hɔːs/",
+    "vi": "Ngựa"
+  },
+  {
+    "en": "Chicken (n)",
+    "ipa": "/ˈtʃɪk.ɪn/",
+    "vi": "Gà"
+  },
+  {
+    "en": "Duck (n)",
+    "ipa": "/dʌk/",
+    "vi": "Vịt"
+  },
+  {
+    "en": "Goose (n)",
+    "ipa": "/ɡuːs/",
+    "vi": "Ngỗng"
+  },
+  {
+    "en": "Monkey (n)",
+    "ipa": "/ˈmʌŋ.ki/",
+    "vi": "Khỉ"
+  },
+  {
+    "en": "Elephant (n)",
+    "ipa": "/ˈel.ɪ.fənt/",
+    "vi": "Voi"
+  },
+  {
+    "en": "Tiger (n)",
+    "ipa": "/ˈtaɪ.ɡər/",
+    "vi": "Hổ"
+  },
+  {
+    "en": "Lion (n)",
+    "ipa": "/ˈlaɪ.ən/",
+    "vi": "Sư tử"
+  },
+  {
+    "en": "Bear (n)",
+    "ipa": "/beər/",
+    "vi": "Gấu"
+  },
+  {
+    "en": "Giraffe (n)",
+    "ipa": "/dʒɪˈrɑːf/",
+    "vi": "Hươu cao cổ"
+  },
+  {
+    "en": "Zebra (n)",
+    "ipa": "/ˈziː.brə/",
+    "vi": "Ngựa vằn"
+  },
+  {
+    "en": "Wolf (n)",
+    "ipa": "/wʊlf/",
+    "vi": "Sói"
+  },
+  {
+    "en": "Fox (n)",
+    "ipa": "/fɒks/",
+    "vi": "Cáo"
+  },
+  {
+    "en": "Dolphin (n)",
+    "ipa": "/ˈdɒl.fɪn/",
+    "vi": "Cá heo"
+  },
+  {
+    "en": "Shark (n)",
+    "ipa": "/ʃɑːk/",
+    "vi": "Cá mập"
+  },
+  {
+    "en": "Whale (n)",
+    "ipa": "/weɪl/",
+    "vi": "Cá voi"
+  },
+  {
+    "en": "Snake (n)",
+    "ipa": "/sneɪk/",
+    "vi": "Rắn"
+  },
+  {
+    "en": "Turtle (n)",
+    "ipa": "/ˈtɜː.tl̩/",
+    "vi": "Rùa"
+  },
+  {
+    "en": "Food (n)",
+    "ipa": "/fuːd/",
+    "vi": "Thức ăn"
+  },
+  {
+    "en": "Meal (n)",
+    "ipa": "/miːl/",
+    "vi": "Bữa ăn"
+  },
+  {
+    "en": "Dish (n)",
+    "ipa": "/dɪʃ/",
+    "vi": "Món ăn"
+  },
+  {
+    "en": "Cuisine (n)",
+    "ipa": "/kwɪˈziːn/",
+    "vi": "Ẩm thực"
+  },
+  {
+    "en": "Ingredient (n)",
+    "ipa": "/ɪnˈɡriː.di.ənt/",
+    "vi": "Nguyên liệu"
+  },
+  {
+    "en": "Breakfast (n)",
+    "ipa": "/ˈbrek.fəst/",
+    "vi": "Bữa sáng"
+  },
+  {
+    "en": "Lunch (n)",
+    "ipa": "/lʌntʃ/",
+    "vi": "Bữa trưa"
+  },
+  {
+    "en": "Dinner (n)",
+    "ipa": "/ˈdɪn.ər/",
+    "vi": "Bữa tối"
+  },
+  {
+    "en": "Snack (n)",
+    "ipa": "/snæk/",
+    "vi": "Đồ ăn nhẹ"
+  },
+  {
+    "en": "Appetizer (n)",
+    "ipa": "/ˈæp.ɪ.taɪ.zər/",
+    "vi": "Món khai vị"
+  },
+  {
+    "en": "Main course (n)",
+    "ipa": "/ˌmeɪn ˈkɔːrs/",
+    "vi": "Món chính"
+  },
+  {
+    "en": "Dessert (n)",
+    "ipa": "/dɪˈzɜːt/",
+    "vi": "Món tráng miệng"
+  },
+  {
+    "en": "Rice (n)",
+    "ipa": "/raɪs/",
+    "vi": "Cơm, gạo"
+  },
+  {
+    "en": "Noodles (n)",
+    "ipa": "/ˈnuː.dlz/",
+    "vi": "Mì, bún, phở"
+  },
+  {
+    "en": "Bread (n)",
+    "ipa": "/bred/",
+    "vi": "Bánh mì"
+  },
+  {
+    "en": "Soup (n)",
+    "ipa": "/suːp/",
+    "vi": "Súp, canh"
+  },
+  {
+    "en": "Salad (n)",
+    "ipa": "/ˈsæl.əd/",
+    "vi": "Salad, rau trộn"
+  },
+  {
+    "en": "Meat (n)",
+    "ipa": "/miːt/",
+    "vi": "Thịt"
+  },
+  {
+    "en": "Beef (n)",
+    "ipa": "/biːf/",
+    "vi": "Thịt bò"
+  },
+  {
+    "en": "Pork (n)",
+    "ipa": "/pɔːk/",
+    "vi": "Thịt heo"
+  },
+  {
+    "en": "Chicken (n)",
+    "ipa": "/ˈtʃɪk.ɪn/",
+    "vi": "Thịt gà"
+  },
+  {
+    "en": "Seafood (n)",
+    "ipa": "/ˈsiː.fuːd/",
+    "vi": "Hải sản"
+  },
+  {
+    "en": "Fish (n)",
+    "ipa": "/fɪʃ/",
+    "vi": "Cá"
+  },
+  {
+    "en": "Egg (n)",
+    "ipa": "/eɡ/",
+    "vi": "Trứng"
+  },
+  {
+    "en": "Vegetable (n)",
+    "ipa": "/ˈvedʒ.tə.bəl/",
+    "vi": "Rau củ"
+  },
+  {
+    "en": "Fruit (n)",
+    "ipa": "/fruːt/",
+    "vi": "Trái cây"
+  },
+  {
+    "en": "Spicy (adj)",
+    "ipa": "/ˈspaɪ.si/",
+    "vi": "Cay"
+  },
+  {
+    "en": "Sweet (adj)",
+    "ipa": "/swiːt/",
+    "vi": "Ngọt"
+  },
+  {
+    "en": "Sour (adj)",
+    "ipa": "/saʊər/",
+    "vi": "Chua"
+  },
+  {
+    "en": "Bitter (adj)",
+    "ipa": "/ˈbɪt.ər/",
+    "vi": "Đắng"
+  },
+  {
+    "en": "Salty (adj)",
+    "ipa": "/ˈsɒl.ti/",
+    "vi": "Mặn"
+  },
+  {
+    "en": "Delicious (adj)",
+    "ipa": "/dɪˈlɪʃ.əs/",
+    "vi": "Ngon"
+  },
+  {
+    "en": "School (n)",
+    "ipa": "/skuːl/",
+    "vi": "Trường học"
+  },
+  {
+    "en": "Classroom (n)",
+    "ipa": "/ˈklɑːs.ruːm/",
+    "vi": "Lớp học"
+  },
+  {
+    "en": "Teacher (n)",
+    "ipa": "/ˈtiː.tʃər/",
+    "vi": "Giáo viên"
+  },
+  {
+    "en": "Student (n)",
+    "ipa": "/ˈstjuː.dənt/",
+    "vi": "Học sinh"
+  },
+  {
+    "en": "Principal (n)",
+    "ipa": "/ˈprɪn.sə.pəl/",
+    "vi": "Hiệu trưởng"
+  },
+  {
+    "en": "Subject (n)",
+    "ipa": "/ˈsʌb.dʒɪkt/",
+    "vi": "Môn học"
+  },
+  {
+    "en": "Lesson (n)",
+    "ipa": "/ˈles.ən/",
+    "vi": "Bài học"
+  },
+  {
+    "en": "Homework (n)",
+    "ipa": "/ˈhəʊm.wɜːk/",
+    "vi": "Bài tập về nhà"
+  },
+  {
+    "en": "Exam (n)",
+    "ipa": "/ɪɡˈzæm/",
+    "vi": "Kỳ thi"
+  },
+  {
+    "en": "Test (n)",
+    "ipa": "/test/",
+    "vi": "Bài kiểm tra"
+  },
+  {
+    "en": "Score (n)",
+    "ipa": "/skɔːr/",
+    "vi": "Điểm số"
+  },
+  {
+    "en": "Grade (n)",
+    "ipa": "/ɡreɪd/",
+    "vi": "Lớp, điểm số"
+  },
+  {
+    "en": "Diploma (n)",
+    "ipa": "/dɪˈpləʊ.mə/",
+    "vi": "Bằng tốt nghiệp"
+  },
+  {
+    "en": "Library (n)",
+    "ipa": "/ˈlaɪ.brər.i/",
+    "vi": "Thư viện"
+  },
+  {
+    "en": "Laboratory (n)",
+    "ipa": "/ləˈbɒr.ə.tər.i/",
+    "vi": "Phòng thí nghiệm"
+  },
+  {
+    "en": "Playground (n)",
+    "ipa": "/ˈpleɪ.ɡraʊnd/",
+    "vi": "Sân chơi"
+  },
+  {
+    "en": "Desk (n)",
+    "ipa": "/desk/",
+    "vi": "Bàn học"
+  },
+  {
+    "en": "Chair (n)",
+    "ipa": "/tʃeər/",
+    "vi": "Ghế"
+  },
+  {
+    "en": "Blackboard (n)",
+    "ipa": "/ˈblæk.bɔːd/",
+    "vi": "Bảng đen"
+  },
+  {
+    "en": "Whiteboard (n)",
+    "ipa": "/ˈwaɪt.bɔːd/",
+    "vi": "Bảng trắng"
+  },
+  {
+    "en": "Pen (n)",
+    "ipa": "/pen/",
+    "vi": "Bút mực"
+  },
+  {
+    "en": "Pencil (n)",
+    "ipa": "/ˈpen.səl/",
+    "vi": "Bút chì"
+  },
+  {
+    "en": "Notebook (n)",
+    "ipa": "/ˈnəʊt.bʊk/",
+    "vi": "Vở, sổ ghi chép"
+  },
+  {
+    "en": "Backpack (n)",
+    "ipa": "/ˈbæk.pæk/",
+    "vi": "Ba lô"
+  },
+  {
+    "en": "Uniform (n)",
+    "ipa": "/ˈjuː.nɪ.fɔːm/",
+    "vi": "Đồng phục"
+  },
+  {
+    "en": "Recess (n)",
+    "ipa": "/rɪˈses/",
+    "vi": "Giờ giải lao"
+  },
+  {
+    "en": "Scholarship (n)",
+    "ipa": "/ˈskɒl.ə.ʃɪp/",
+    "vi": "Học bổng"
+  },
+  {
+    "en": "Attendance (n)",
+    "ipa": "/əˈten.dəns/",
+    "vi": "Sự chuyên cần"
+  },
+  {
+    "en": "Curriculum (n)",
+    "ipa": "/kəˈrɪk.jə.ləm/",
+    "vi": "Chương trình học"
+  },
+  {
+    "en": "Travel (n/v)",
+    "ipa": "/ˈtræv.əl/",
+    "vi": "Du lịch, đi du lịch"
+  },
+  {
+    "en": "Trip (n)",
+    "ipa": "/trɪp/",
+    "vi": "Chuyến đi"
+  },
+  {
+    "en": "Journey (n)",
+    "ipa": "/ˈdʒɜː.ni/",
+    "vi": "Hành trình"
+  },
+  {
+    "en": "Vacation (n)",
+    "ipa": "/vəˈkeɪ.ʃən/",
+    "vi": "Kỳ nghỉ"
+  },
+  {
+    "en": "Tourist (n)",
+    "ipa": "/ˈtʊə.rɪst/",
+    "vi": "Khách du lịch"
+  },
+  {
+    "en": "Destination (n)",
+    "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+    "vi": "Điểm đến"
+  },
+  {
+    "en": "Itinerary (n)",
+    "ipa": "/aɪˈtɪn.ər.ər.i/",
+    "vi": "Lịch trình"
+  },
+  {
+    "en": "Sightseeing (n)",
+    "ipa": "/ˈsaɪtˌsiː.ɪŋ/",
+    "vi": "Tham quan"
+  },
+  {
+    "en": "Landmark (n)",
+    "ipa": "/ˈlænd.mɑːk/",
+    "vi": "Danh lam thắng cảnh"
+  },
+  {
+    "en": "Adventure (n)",
+    "ipa": "/ədˈven.tʃər/",
+    "vi": "Cuộc phiêu lưu"
+  },
+  {
+    "en": "Tourist attraction (n)",
+    "ipa": "/ˈtʊə.rɪst əˈtræk.ʃən/",
+    "vi": "Điểm thu hút du lịch"
+  },
+  {
+    "en": "Passport (n)",
+    "ipa": "/ˈpɑːs.pɔːt/",
+    "vi": "Hộ chiếu"
+  },
+  {
+    "en": "Visa (n)",
+    "ipa": "/ˈviː.zə/",
+    "vi": "Thị thực"
+  },
+  {
+    "en": "Ticket (n)",
+    "ipa": "/ˈtɪk.ɪt/",
+    "vi": "Vé"
+  },
+  {
+    "en": "Boarding pass (n)",
+    "ipa": "/ˈbɔː.dɪŋ ˌpɑːs/",
+    "vi": "Thẻ lên máy bay"
+  },
+  {
+    "en": "Airport (n)",
+    "ipa": "/ˈeə.pɔːt/",
+    "vi": "Sân bay"
+  },
+  {
+    "en": "Flight (n)",
+    "ipa": "/flaɪt/",
+    "vi": "Chuyến bay"
+  },
+  {
+    "en": "Departure (n)",
+    "ipa": "/dɪˈpɑː.tʃər/",
+    "vi": "Sự khởi hành"
+  },
+  {
+    "en": "Arrival (n)",
+    "ipa": "/əˈraɪ.vəl/",
+    "vi": "Sự đến nơi"
+  },
+  {
+    "en": "Hotel (n)",
+    "ipa": "/həʊˈtel/",
+    "vi": "Khách sạn"
+  },
+  {
+    "en": "Hostel (n)",
+    "ipa": "/ˈhɒs.təl/",
+    "vi": "Nhà trọ"
+  },
+  {
+    "en": "Resort (n)",
+    "ipa": "/rɪˈzɔːt/",
+    "vi": "Khu nghỉ dưỡng"
+  },
+  {
+    "en": "Luggage (n)",
+    "ipa": "/ˈlʌɡ.ɪdʒ/",
+    "vi": "Hành lý"
+  },
+  {
+    "en": "Baggage claim (n)",
+    "ipa": "/ˈbæɡ.ɪdʒ kleɪm/",
+    "vi": "Khu nhận hành lý"
+  },
+  {
+    "en": "Map (n)",
+    "ipa": "/mæp/",
+    "vi": "Bản đồ"
+  },
+  {
+    "en": "Guidebook (n)",
+    "ipa": "/ˈɡaɪd.bʊk/",
+    "vi": "Sách hướng dẫn"
+  },
+  {
+    "en": "Souvenir (n)",
+    "ipa": "/ˌsuː.vənˈɪər/",
+    "vi": "Quà lưu niệm"
+  },
+  {
+    "en": "Currency (n)",
+    "ipa": "/ˈkʌr.ən.si/",
+    "vi": "Tiền tệ"
+  },
+  {
+    "en": "Budget (n)",
+    "ipa": "/ˈbʌdʒ.ɪt/",
+    "vi": "Ngân sách"
+  },
+  {
+    "en": "Color (n)",
+    "ipa": "/ˈkʌl.ər/",
+    "vi": "Màu sắc"
+  },
+  {
+    "en": "Red (adj/n)",
+    "ipa": "/red/",
+    "vi": "Màu đỏ"
+  },
+  {
+    "en": "Blue (adj/n)",
+    "ipa": "/bluː/",
+    "vi": "Màu xanh dương"
+  },
+  {
+    "en": "Green (adj/n)",
+    "ipa": "/ɡriːn/",
+    "vi": "Màu xanh lá cây"
+  },
+  {
+    "en": "Yellow (adj/n)",
+    "ipa": "/ˈjel.əʊ/",
+    "vi": "Màu vàng"
+  },
+  {
+    "en": "Orange (adj/n)",
+    "ipa": "/ˈɒr.ɪndʒ/",
+    "vi": "Màu cam"
+  },
+  {
+    "en": "Purple (adj/n)",
+    "ipa": "/ˈpɜː.pəl/",
+    "vi": "Màu tím"
+  },
+  {
+    "en": "Pink (adj/n)",
+    "ipa": "/pɪŋk/",
+    "vi": "Màu hồng"
+  },
+  {
+    "en": "Brown (adj/n)",
+    "ipa": "/braʊn/",
+    "vi": "Màu nâu"
+  },
+  {
+    "en": "Black (adj/n)",
+    "ipa": "/blæk/",
+    "vi": "Màu đen"
+  },
+  {
+    "en": "White (adj/n)",
+    "ipa": "/waɪt/",
+    "vi": "Màu trắng"
+  },
+  {
+    "en": "Gray (adj/n)",
+    "ipa": "/ɡreɪ/",
+    "vi": "Màu xám"
+  },
+  {
+    "en": "Silver (adj/n)",
+    "ipa": "/ˈsɪl.vər/",
+    "vi": "Màu bạc"
+  },
+  {
+    "en": "Gold (adj/n)",
+    "ipa": "/ɡəʊld/",
+    "vi": "Màu vàng kim"
+  },
+  {
+    "en": "Beige (adj/n)",
+    "ipa": "/beɪʒ/",
+    "vi": "Màu be"
+  },
+  {
+    "en": "Cyan (adj/n)",
+    "ipa": "/ˈsaɪ.ən/",
+    "vi": "Màu xanh lơ"
+  },
+  {
+    "en": "Magenta (adj/n)",
+    "ipa": "/məˈdʒen.tə/",
+    "vi": "Màu đỏ tươi"
+  },
+  {
+    "en": "Turquoise (adj/n)",
+    "ipa": "/ˈtɜː.kwɔɪz/",
+    "vi": "Màu xanh ngọc"
+  },
+  {
+    "en": "Lavender (adj/n)",
+    "ipa": "/ˈlæv.ən.dər/",
+    "vi": "Màu tím nhạt"
+  },
+  {
+    "en": "Maroon (adj/n)",
+    "ipa": "/məˈruːn/",
+    "vi": "Màu đỏ nâu"
+  },
+  {
+    "en": "Teal (adj/n)",
+    "ipa": "/tiːl/",
+    "vi": "Màu xanh mòng két"
+  },
+  {
+    "en": "Navy (adj/n)",
+    "ipa": "/ˈneɪ.vi/",
+    "vi": "Màu xanh nước biển đậm"
+  },
+  {
+    "en": "Olive (adj/n)",
+    "ipa": "/ˈɒl.ɪv/",
+    "vi": "Màu xanh ô liu"
+  },
+  {
+    "en": "Coral (adj/n)",
+    "ipa": "/ˈkɒr.əl/",
+    "vi": "Màu san hô"
+  },
+  {
+    "en": "Peach (adj/n)",
+    "ipa": "/piːtʃ/",
+    "vi": "Màu đào"
+  },
+  {
+    "en": "Traffic (n)",
+    "ipa": "/ˈtræf.ɪk/",
+    "vi": "Giao thông"
+  },
+  {
+    "en": "Vehicle (n)",
+    "ipa": "/ˈvɪə.kəl/",
+    "vi": "Phương tiện giao thông"
+  },
+  {
+    "en": "Road (n)",
+    "ipa": "/rəʊd/",
+    "vi": "Con đường"
+  },
+  {
+    "en": "Street (n)",
+    "ipa": "/striːt/",
+    "vi": "Đường phố"
+  },
+  {
+    "en": "Highway (n)",
+    "ipa": "/ˈhaɪ.weɪ/",
+    "vi": "Đường cao tốc"
+  },
+  {
+    "en": "Intersection (n)",
+    "ipa": "/ˌɪn.təˈsek.ʃən/",
+    "vi": "Ngã tư, giao lộ"
+  },
+  {
+    "en": "Roundabout (n)",
+    "ipa": "/ˈraʊnd.ə.baʊt/",
+    "vi": "Bùng binh"
+  },
+  {
+    "en": "Traffic light (n)",
+    "ipa": "/ˈtræf.ɪk laɪt/",
+    "vi": "Đèn giao thông"
+  },
+  {
+    "en": "Pedestrian (n)",
+    "ipa": "/pəˈdes.tri.ən/",
+    "vi": "Người đi bộ"
+  },
+  {
+    "en": "Sidewalk (n)",
+    "ipa": "/ˈsaɪd.wɔːk/",
+    "vi": "Vỉa hè (Anh-Mỹ)"
+  },
+  {
+    "en": "Pavement (n)",
+    "ipa": "/ˈpeɪv.mənt/",
+    "vi": "Vỉa hè (Anh-Anh)"
+  },
+  {
+    "en": "Crosswalk (n)",
+    "ipa": "/ˈkrɒs.wɔːk/",
+    "vi": "Vạch sang đường"
+  },
+  {
+    "en": "Bridge (n)",
+    "ipa": "/brɪdʒ/",
+    "vi": "Cây cầu"
+  },
+  {
+    "en": "Tunnel (n)",
+    "ipa": "/ˈtʌn.əl/",
+    "vi": "Đường hầm"
+  },
+  {
+    "en": "Car (n)",
+    "ipa": "/kɑːr/",
+    "vi": "Xe ô tô"
+  },
+  {
+    "en": "Bus (n)",
+    "ipa": "/bʌs/",
+    "vi": "Xe buýt"
+  },
+  {
+    "en": "Taxi (n)",
+    "ipa": "/ˈtæk.si/",
+    "vi": "Xe taxi"
+  },
+  {
+    "en": "Train (n)",
+    "ipa": "/treɪn/",
+    "vi": "Tàu hỏa"
+  },
+  {
+    "en": "Subway (n)",
+    "ipa": "/ˈsʌb.weɪ/",
+    "vi": "Tàu điện ngầm (Anh-Mỹ)"
+  },
+  {
+    "en": "Underground (n)",
+    "ipa": "/ˌʌn.dəˈɡraʊnd/",
+    "vi": "Tàu điện ngầm (Anh-Anh)"
+  },
+  {
+    "en": "Airplane (n)",
+    "ipa": "/ˈeə.pleɪn/",
+    "vi": "Máy bay"
+  },
+  {
+    "en": "Bicycle (n)",
+    "ipa": "/ˈbaɪ.sɪ.kəl/",
+    "vi": "Xe đạp"
+  },
+  {
+    "en": "Motorcycle (n)",
+    "ipa": "/ˈməʊ.təˌsaɪ.kəl/",
+    "vi": "Xe máy"
+  },
+  {
+    "en": "Ferry (n)",
+    "ipa": "/ˈfer.i/",
+    "vi": "Phà"
+  },
+  {
+    "en": "Boat (n)",
+    "ipa": "/bəʊt/",
+    "vi": "Thuyền"
+  },
+  {
+    "en": "Traffic jam (n)",
+    "ipa": "/ˈtræf.ɪk dʒæm/",
+    "vi": "Tắc đường"
+  },
+  {
+    "en": "Speed limit (n)",
+    "ipa": "/ˈspiːd ˌlɪm.ɪt/",
+    "vi": "Giới hạn tốc độ"
+  },
+  {
+    "en": "Parking lot (n)",
+    "ipa": "/ˈpɑː.kɪŋ ˌlɒt/",
+    "vi": "Bãi đỗ xe"
+  },
+  {
+    "en": "Seatbelt (n)",
+    "ipa": "/ˈsiːt.belt/",
+    "vi": "Dây an toàn"
+  },
+  {
+    "en": "Happy (adj)",
+    "ipa": "/ˈhæp.i/",
+    "vi": "Hạnh phúc, vui vẻ"
+  },
+  {
+    "en": "Joyful (adj)",
+    "ipa": "/ˈdʒɔɪ.fəl/",
+    "vi": "Vui sướng"
+  },
+  {
+    "en": "Excited (adj)",
+    "ipa": "/ɪkˈsaɪ.tɪd/",
+    "vi": "Hào hứng"
+  },
+  {
+    "en": "Cheerful (adj)",
+    "ipa": "/ˈtʃɪə.fʊl/",
+    "vi": "Vui vẻ, tươi tắn"
+  },
+  {
+    "en": "Proud (adj)",
+    "ipa": "/praʊd/",
+    "vi": "Tự hào"
+  },
+  {
+    "en": "Grateful (adj)",
+    "ipa": "/ˈɡreɪt.fəl/",
+    "vi": "Biết ơn"
+  },
+  {
+    "en": "Hopeful (adj)",
+    "ipa": "/ˈhəʊp.fəl/",
+    "vi": "Hy vọng"
+  },
+  {
+    "en": "Relaxed (adj)",
+    "ipa": "/rɪˈlækst/",
+    "vi": "Thư giãn"
+  },
+  {
+    "en": "Satisfied (adj)",
+    "ipa": "/ˈsæt.ɪs.faɪd/",
+    "vi": "Hài lòng"
+  },
+  {
+    "en": "Affectionate (adj)",
+    "ipa": "/əˈfek.ʃən.ət/",
+    "vi": "Trìu mến, yêu thương"
+  },
+  {
+    "en": "Loving (adj)",
+    "ipa": "/ˈlʌv.ɪŋ/",
+    "vi": "Đầy yêu thương"
+  },
+  {
+    "en": "Fearful (adj)",
+    "ipa": "/ˈfɪə.fəl/",
+    "vi": "Sợ hãi"
+  },
+  {
+    "en": "Anxious (adj)",
+    "ipa": "/ˈæŋk.ʃəs/",
+    "vi": "Lo lắng, bất an"
+  },
+  {
+    "en": "Embarrassed (adj)",
+    "ipa": "/ɪmˈbær.əst/",
+    "vi": "Xấu hổ, ngượng ngùng"
+  },
+  {
+    "en": "Guilty (adj)",
+    "ipa": "/ˈɡɪl.ti/",
+    "vi": "Cảm thấy có lỗi"
+  },
+  {
+    "en": "Lonely (adj)",
+    "ipa": "/ˈləʊn.li/",
+    "vi": "Cô đơn"
+  },
+  {
+    "en": "Frustrated (adj)",
+    "ipa": "/frʌsˈtreɪ.tɪd/",
+    "vi": "Bực bội, nản lòng"
+  },
+  {
+    "en": "Disappointed (adj)",
+    "ipa": "/ˌdɪs.əˈpɔɪn.tɪd/",
+    "vi": "Thất vọng"
+  },
+  {
+    "en": "Shocked (adj)",
+    "ipa": "/ʃɒkt/",
+    "vi": "Sốc, kinh ngạc"
+  },
+  {
+    "en": "Depressed (adj)",
+    "ipa": "/dɪˈprest/",
+    "vi": "Chán nản, trầm cảm"
+  },
+  {
+    "en": "Confused (adj)",
+    "ipa": "/kənˈfjuːzd/",
+    "vi": "Bối rối"
+  },
+  {
+    "en": "Shy (adj)",
+    "ipa": "/ʃaɪ/",
+    "vi": "Nhút nhát, e thẹn"
+  },
+  {
+    "en": "Envious (adj)",
+    "ipa": "/ˈen.vi.əs/",
+    "vi": "Đố kỵ"
+  },
+  {
+    "en": "Tired (adj)",
+    "ipa": "/ˈtaɪ.əd/",
+    "vi": "Mệt mỏi"
+  },
+  {
+    "en": "Annoyed (adj)",
+    "ipa": "/əˈnɔɪd/",
+    "vi": "Khó chịu, bực mình"
+  },
+  {
+    "en": "Hopeful (adj)",
+    "ipa": "/ˈhəʊp.fəl/",
+    "vi": "Hy vọng"
+  },
+  {
+    "en": "Fruit (n)",
+    "ipa": "/fruːt/",
+    "vi": "Trái cây, hoa quả"
+  },
+  {
+    "en": "Apple (n)",
+    "ipa": "/ˈæp.l̩/",
+    "vi": "Táo"
+  },
+  {
+    "en": "Orange (n)",
+    "ipa": "/ˈɒr.ɪndʒ/",
+    "vi": "Cam"
+  },
+  {
+    "en": "Banana (n)",
+    "ipa": "/bəˈnɑː.nə/",
+    "vi": "Chuối"
+  },
+  {
+    "en": "Mango (n)",
+    "ipa": "/ˈmæŋ.ɡəʊ/",
+    "vi": "Xoài"
+  },
+  {
+    "en": "Grape (n)",
+    "ipa": "/ɡreɪp/",
+    "vi": "Nho"
+  },
+  {
+    "en": "Pineapple (n)",
+    "ipa": "/ˈpaɪnˌæp.l̩/",
+    "vi": "Dứa, thơm"
+  },
+  {
+    "en": "Watermelon (n)",
+    "ipa": "/ˈwɔː.təˌmel.ən/",
+    "vi": "Dưa hấu"
+  },
+  {
+    "en": "Strawberry (n)",
+    "ipa": "/ˈstrɔːˌbər.i/",
+    "vi": "Dâu tây"
+  },
+  {
+    "en": "Blueberry (n)",
+    "ipa": "/ˈbluːˌbər.i/",
+    "vi": "Việt quất"
+  },
+  {
+    "en": "Raspberry (n)",
+    "ipa": "/ˈrɑːz.bər.i/",
+    "vi": "Mâm xôi"
+  },
+  {
+    "en": "Lemon (n)",
+    "ipa": "/ˈlem.ən/",
+    "vi": "Chanh vàng"
+  },
+  {
+    "en": "Lime (n)",
+    "ipa": "/laɪm/",
+    "vi": "Chanh xanh"
+  },
+  {
+    "en": "Peach (n)",
+    "ipa": "/piːtʃ/",
+    "vi": "Đào"
+  },
+  {
+    "en": "Plum (n)",
+    "ipa": "/plʌm/",
+    "vi": "Mận"
+  },
+  {
+    "en": "Cherry (n)",
+    "ipa": "/ˈtʃer.i/",
+    "vi": "Anh đào"
+  },
+  {
+    "en": "Kiwi (n)",
+    "ipa": "/ˈkiː.wi/",
+    "vi": "Kiwi"
+  },
+  {
+    "en": "Papaya (n)",
+    "ipa": "/pəˈpaɪ.ə/",
+    "vi": "Đu đủ"
+  },
+  {
+    "en": "Guava (n)",
+    "ipa": "/ˈɡwɑː.və/",
+    "vi": "Ổi"
+  },
+  {
+    "en": "Pomegranate (n)",
+    "ipa": "/ˈpɒm.ɪˌɡræn.ɪt/",
+    "vi": "Lựu"
+  },
+  {
+    "en": "Coconut (n)",
+    "ipa": "/ˈkəʊ.kə.nʌt/",
+    "vi": "Dừa"
+  },
+  {
+    "en": "Avocado (n)",
+    "ipa": "/ˌæv.əˈkɑː.dəʊ/",
+    "vi": "Bơ"
+  },
+  {
+    "en": "Melon (n)",
+    "ipa": "/ˈmel.ən/",
+    "vi": "Dưa lưới"
+  },
+  {
+    "en": "Persimmon (n)",
+    "ipa": "/pərˈsɪm.ən/",
+    "vi": "Hồng"
+  },
+  {
+    "en": "Dragon fruit (n)",
+    "ipa": "/ˈdræɡ.ən fruːt/",
+    "vi": "Thanh long"
+  },
+  {
+    "en": "Passion fruit (n)",
+    "ipa": "/ˈpæʃ.ən fruːt/",
+    "vi": "Chanh dây"
+  },
+  {
+    "en": "Starfruit (n)",
+    "ipa": "/ˈstɑː.fruːt/",
+    "vi": "Khế"
+  },
+  {
+    "en": "Work (v/n)",
+    "ipa": "/wɜːk/",
+    "vi": "Làm việc, công việc"
+  },
+  {
+    "en": "Job (n)",
+    "ipa": "/dʒɒb/",
+    "vi": "Nghề nghiệp"
+  },
+  {
+    "en": "Task (n)",
+    "ipa": "/tɑːsk/",
+    "vi": "Nhiệm vụ"
+  },
+  {
+    "en": "Duty (n)",
+    "ipa": "/ˈdjuː.ti/",
+    "vi": "Trách nhiệm"
+  },
+  {
+    "en": "Meeting (n)",
+    "ipa": "/ˈmiː.tɪŋ/",
+    "vi": "Cuộc họp"
+  },
+  {
+    "en": "Interview (n)",
+    "ipa": "/ˈɪn.tə.vjuː/",
+    "vi": "Phỏng vấn"
+  },
+  {
+    "en": "Presentation (n)",
+    "ipa": "/ˌprez.ənˈteɪ.ʃən/",
+    "vi": "Bài thuyết trình"
+  },
+  {
+    "en": "Report (n)",
+    "ipa": "/rɪˈpɔːt/",
+    "vi": "Báo cáo"
+  },
+  {
+    "en": "Deadline (n)",
+    "ipa": "/ˈded.laɪn/",
+    "vi": "Hạn chót"
+  },
+  {
+    "en": "Project (n)",
+    "ipa": "/ˈprɒdʒ.ekt/",
+    "vi": "Dự án"
+  },
+  {
+    "en": "Plan (v/n)",
+    "ipa": "/plæn/",
+    "vi": "Lập kế hoạch, kế hoạch"
+  },
+  {
+    "en": "Schedule (n)",
+    "ipa": "/ˈʃed.juːl/",
+    "vi": "Lịch trình"
+  },
+  {
+    "en": "Assign (v)",
+    "ipa": "/əˈsaɪn/",
+    "vi": "Phân công"
+  },
+  {
+    "en": "Research (n/v)",
+    "ipa": "/rɪˈsɜːtʃ/",
+    "vi": "Nghiên cứu"
+  },
+  {
+    "en": "Develop (v)",
+    "ipa": "/dɪˈvel.əp/",
+    "vi": "Phát triển"
+  },
+  {
+    "en": "Brainstorm (v)",
+    "ipa": "/ˈbreɪn.stɔːm/",
+    "vi": "Động não, lên ý tưởng"
+  },
+  {
+    "en": "Analyze (v)",
+    "ipa": "/ˈæn.əl.aɪz/",
+    "vi": "Phân tích"
+  },
+  {
+    "en": "Solve (v)",
+    "ipa": "/sɒlv/",
+    "vi": "Giải quyết"
+  },
+  {
+    "en": "Organize (v)",
+    "ipa": "/ˈɔː.ɡən.aɪz/",
+    "vi": "Tổ chức"
+  },
+  {
+    "en": "Cooperate (v)",
+    "ipa": "/kəʊˈɒp.ər.eɪt/",
+    "vi": "Hợp tác"
+  },
+  {
+    "en": "Negotiate (v)",
+    "ipa": "/nɪˈɡəʊ.ʃi.eɪt/",
+    "vi": "Đàm phán"
+  },
+  {
+    "en": "Review (v)",
+    "ipa": "/rɪˈvjuː/",
+    "vi": "Xem xét, đánh giá"
+  },
+  {
+    "en": "Submit (v)",
+    "ipa": "/səbˈmɪt/",
+    "vi": "Nộp, gửi đi"
+  },
+  {
+    "en": "Approve (v)",
+    "ipa": "/əˈpruːv/",
+    "vi": "Phê duyệt"
+  },
+  {
+    "en": "Delegate (v)",
+    "ipa": "/ˈdel.ɪ.ɡeɪt/",
+    "vi": "Ủy quyền, giao việc"
+  },
+  {
+    "en": "Collaborate (v)",
+    "ipa": "/kəˈlæb.ə.reɪt/",
+    "vi": "Hợp tác, cộng tác"
+  },
+  {
+    "en": "Supervise (v)",
+    "ipa": "/ˈsuː.pə.vaɪz/",
+    "vi": "Giám sát"
+  },
+  {
+    "en": "Train (v)",
+    "ipa": "/treɪn/",
+    "vi": "Đào tạo, huấn luyện"
+  },
+  {
+    "en": "Resign (v)",
+    "ipa": "/rɪˈzaɪn/",
+    "vi": "Từ chức, nghỉ việc"
+  },
+  {
+    "en": "Christmas (n)",
+    "ipa": "/ˈkrɪs.məs/",
+    "vi": "Giáng Sinh"
+  },
+  {
+    "en": "Santa Claus (n)",
+    "ipa": "/ˈsæn.tə klɔːz/",
+    "vi": "Ông già Noel"
+  },
+  {
+    "en": "Reindeer (n)",
+    "ipa": "/ˈreɪn.dɪər/",
+    "vi": "Tuần lộc"
+  },
+  {
+    "en": "Sleigh (n)",
+    "ipa": "/sleɪ/",
+    "vi": "Xe trượt tuyết"
+  },
+  {
+    "en": "Elf (n)",
+    "ipa": "/elf/",
+    "vi": "Yêu tinh giúp việc của Santa"
+  },
+  {
+    "en": "Christmas tree (n)",
+    "ipa": "/ˈkrɪs.məs triː/",
+    "vi": "Cây thông Noel"
+  },
+  {
+    "en": "Ornament (n)",
+    "ipa": "/ˈɔː.nə.mənt/",
+    "vi": "Đồ trang trí cây thông"
+  },
+  {
+    "en": "Bauble (n)",
+    "ipa": "/ˈbɔː.bəl/",
+    "vi": "Quả châu trang trí"
+  },
+  {
+    "en": "Tinsel (n)",
+    "ipa": "/ˈtɪn.səl/",
+    "vi": "Dây kim tuyến"
+  },
+  {
+    "en": "Wreath (n)",
+    "ipa": "/riːθ/",
+    "vi": "Vòng hoa Giáng Sinh"
+  },
+  {
+    "en": "Stocking (n)",
+    "ipa": "/ˈstɒk.ɪŋ/",
+    "vi": "Tất Giáng Sinh"
+  },
+  {
+    "en": "Fireplace (n)",
+    "ipa": "/ˈfaɪə.pleɪs/",
+    "vi": "Lò sưởi"
+  },
+  {
+    "en": "Chimney (n)",
+    "ipa": "/ˈtʃɪm.ni/",
+    "vi": "Ống khói"
+  },
+  {
+    "en": "Snowman (n)",
+    "ipa": "/ˈsnəʊ.mæn/",
+    "vi": "Người tuyết"
+  },
+  {
+    "en": "Snowflake (n)",
+    "ipa": "/ˈsnəʊ.fleɪk/",
+    "vi": "Bông tuyết"
+  },
+  {
+    "en": "Gingerbread (n)",
+    "ipa": "/ˈdʒɪn.dʒər.bred/",
+    "vi": "Bánh gừng"
+  },
+  {
+    "en": "Candy cane (n)",
+    "ipa": "/ˈkæn.di keɪn/",
+    "vi": "Kẹo gậy Giáng Sinh"
+  },
+  {
+    "en": "Christmas Eve (n)",
+    "ipa": "/ˈkrɪs.məs iːv/",
+    "vi": "Đêm Giáng Sinh"
+  },
+  {
+    "en": "Christmas Day (n)",
+    "ipa": "/ˈkrɪs.məs deɪ/",
+    "vi": "Ngày Giáng Sinh"
+  },
+  {
+    "en": "Mistletoe (n)",
+    "ipa": "/ˈmɪs.əl.təʊ/",
+    "vi": "Cây tầm gửi"
+  },
+  {
+    "en": "Carol (n)",
+    "ipa": "/ˈkær.əl/",
+    "vi": "Bài hát Giáng Sinh"
+  },
+  {
+    "en": "Choir (n)",
+    "ipa": "/kwaɪər/",
+    "vi": "Dàn hợp xướng"
+  },
+  {
+    "en": "Bell (n)",
+    "ipa": "/bel/",
+    "vi": "Chuông"
+  },
+  {
+    "en": "Present (n)",
+    "ipa": "/ˈprez.ənt/",
+    "vi": "Món quà"
+  },
+  {
+    "en": "Gift (n)",
+    "ipa": "/ɡɪft/",
+    "vi": "Quà tặng"
+  },
+  {
+    "en": "Wrap (v)",
+    "ipa": "/ræp/",
+    "vi": "Gói quà"
+  },
+  {
+    "en": "Fireplace (n)",
+    "ipa": "/ˈfaɪə.pleɪs/",
+    "vi": "Lò sưởi"
+  },
+  {
+    "en": "Holiday (n)",
+    "ipa": "/ˈhɒl.ɪ.deɪ/",
+    "vi": "Kỳ nghỉ lễ"
+  },
+  {
+    "en": "Feast (n)",
+    "ipa": "/fiːst/",
+    "vi": "Bữa tiệc lớn"
+  },
+  {
+    "en": "Fashion (n)",
+    "ipa": "/ˈfæʃ.ən/",
+    "vi": "Thời trang"
+  },
+  {
+    "en": "Trend (n)",
+    "ipa": "/trend/",
+    "vi": "Xu hướng"
+  },
+  {
+    "en": "Style (n)",
+    "ipa": "/staɪl/",
+    "vi": "Phong cách"
+  },
+  {
+    "en": "Outfit combination (n)",
+    "ipa": "/ˈaʊt.fɪt ˌkɒm.bɪˈneɪ.ʃən/",
+    "vi": "Sự phối đồ"
+  },
+  {
+    "en": "Wardrobe (n)",
+    "ipa": "/ˈwɔː.drəʊb/",
+    "vi": "Tủ quần áo"
+  },
+  {
+    "en": "Fabric (n)",
+    "ipa": "/ˈfæb.rɪk/",
+    "vi": "Vải, chất liệu"
+  },
+  {
+    "en": "Textile (n)",
+    "ipa": "/ˈtek.staɪl/",
+    "vi": "Dệt may"
+  },
+  {
+    "en": "Embroidery (n)",
+    "ipa": "/ɪmˈbrɔɪ.dər.i/",
+    "vi": "Thêu"
+  },
+  {
+    "en": "Pattern (n)",
+    "ipa": "/ˈpæt.ən/",
+    "vi": "Họa tiết, mẫu vải"
+  },
+  {
+    "en": "Stripes (n)",
+    "ipa": "/straɪps/",
+    "vi": "Sọc"
+  },
+  {
+    "en": "Polka dots (n)",
+    "ipa": "/ˈpɒl.kə dɒts/",
+    "vi": "Chấm bi"
+  },
+  {
+    "en": "Floral print (n)",
+    "ipa": "/ˈflɔː.rəl prɪnt/",
+    "vi": "Họa tiết hoa"
+  },
+  {
+    "en": "Lace (n)",
+    "ipa": "/leɪs/",
+    "vi": "Ren"
+  },
+  {
+    "en": "Velvet (n)",
+    "ipa": "/ˈvel.vɪt/",
+    "vi": "Vải nhung"
+  },
+  {
+    "en": "Denim (n)",
+    "ipa": "/ˈden.ɪm/",
+    "vi": "Vải bò"
+  },
+  {
+    "en": "Leather (n)",
+    "ipa": "/ˈleð.ər/",
+    "vi": "Da (chất liệu)"
+  },
+  {
+    "en": "Silk (n)",
+    "ipa": "/sɪlk/",
+    "vi": "Lụa"
+  },
+  {
+    "en": "Wool (n)",
+    "ipa": "/wʊl/",
+    "vi": "Len"
+  },
+  {
+    "en": "Cotton (n)",
+    "ipa": "/ˈkɒt.ən/",
+    "vi": "Vải cotton"
+  },
+  {
+    "en": "Oversized (adj)",
+    "ipa": "/ˈəʊ.və.saɪzd/",
+    "vi": "Rộng, ngoại cỡ"
+  },
+  {
+    "en": "Slim-fit (adj)",
+    "ipa": "/slɪm fɪt/",
+    "vi": "Ôm dáng"
+  },
+  {
+    "en": "Vintage (adj)",
+    "ipa": "/ˈvɪn.tɪdʒ/",
+    "vi": "Cổ điển"
+  },
+  {
+    "en": "Minimalist (adj)",
+    "ipa": "/ˈmɪn.ɪ.mə.lɪst/",
+    "vi": "Tối giản"
+  },
+  {
+    "en": "Elegant (adj)",
+    "ipa": "/ˈel.ɪ.ɡənt/",
+    "vi": "Thanh lịch"
+  },
+  {
+    "en": "Chic (adj)",
+    "ipa": "/ʃiːk/",
+    "vi": "Sành điệu"
+  },
+  {
+    "en": "Layering (n)",
+    "ipa": "/ˈleɪ.ər.ɪŋ/",
+    "vi": "Phối lớp trang phục"
+  },
+  {
+    "en": "Accessories (n)",
+    "ipa": "/əkˈses.ər.iz/",
+    "vi": "Phụ kiện"
+  },
+  {
+    "en": "Handbag (n)",
+    "ipa": "/ˈhænd.bæɡ/",
+    "vi": "Túi xách"
+  },
+  {
+    "en": "Clutch (n)",
+    "ipa": "/klʌtʃ/",
+    "vi": "Ví cầm tay"
+  },
+  {
+    "en": "Mid-Autumn Festival (n)",
+    "ipa": "/mɪd ˈɔː.təm ˈfes.tɪ.vəl/",
+    "vi": "Tết Trung Thu"
+  },
+  {
+    "en": "Mooncake (n)",
+    "ipa": "/ˈmuːn.keɪk/",
+    "vi": "Bánh trung thu"
+  },
+  {
+    "en": "Lantern (n)",
+    "ipa": "/ˈlæn.tən/",
+    "vi": "Đèn lồng"
+  },
+  {
+    "en": "Full moon (n)",
+    "ipa": "/fʊl muːn/",
+    "vi": "Trăng tròn"
+  },
+  {
+    "en": "Lion dance (n)",
+    "ipa": "/ˈlaɪ.ən dæns/",
+    "vi": "Múa lân"
+  },
+  {
+    "en": "Dragon dance (n)",
+    "ipa": "/ˈdræɡ.ən dæns/",
+    "vi": "Múa rồng"
+  },
+  {
+    "en": "Parade (n)",
+    "ipa": "/pəˈreɪd/",
+    "vi": "Cuộc diễu hành"
+  },
+  {
+    "en": "Family reunion (n)",
+    "ipa": "/ˈfæm.ɪ.li riːˈjuː.njən/",
+    "vi": "Đoàn tụ gia đình"
+  },
+  {
+    "en": "Worship (n/v)",
+    "ipa": "/ˈwɜː.ʃɪp/",
+    "vi": "Cúng bái, thờ cúng"
+  },
+  {
+    "en": "Offering (n)",
+    "ipa": "/ˈɒf.ər.ɪŋ/",
+    "vi": "Lễ vật"
+  },
+  {
+    "en": "Festival (n)",
+    "ipa": "/ˈfes.tɪ.vəl/",
+    "vi": "Lễ hội"
+  },
+  {
+    "en": "Celebration (n)",
+    "ipa": "/ˌsel.ɪˈbreɪ.ʃən/",
+    "vi": "Sự kỷ niệm, lễ hội"
+  },
+  {
+    "en": "Folk tale (n)",
+    "ipa": "/fəʊk teɪl/",
+    "vi": "Truyện dân gian"
+  },
+  {
+    "en": "Legend (n)",
+    "ipa": "/ˈledʒ.ənd/",
+    "vi": "Truyền thuyết"
+  },
+  {
+    "en": "Jade Rabbit (n)",
+    "ipa": "/dʒeɪd ˈræb.ɪt/",
+    "vi": "Thỏ ngọc"
+  },
+  {
+    "en": "Moon Goddess (n)",
+    "ipa": "/muːn ˈɡɒd.ɪs/",
+    "vi": "Nữ thần Mặt Trăng"
+  },
+  {
+    "en": "Star-shaped lantern (n)",
+    "ipa": "/stɑːr ʃeɪpt ˈlæn.tən/",
+    "vi": "Đèn ông sao"
+  },
+  {
+    "en": "Paper lantern (n)",
+    "ipa": "/ˈpeɪ.pər ˈlæn.tən/",
+    "vi": "Đèn lồng giấy"
+  },
+  {
+    "en": "Traditional game (n)",
+    "ipa": "/trəˈdɪʃ.ən.əl ɡeɪm/",
+    "vi": "Trò chơi truyền thống"
+  },
+  {
+    "en": "Reunion dinner (n)",
+    "ipa": "/riːˈjuː.njən ˈdɪn.ər/",
+    "vi": "Bữa cơm đoàn tụ"
+  },
+  {
+    "en": "Children's festival (n)",
+    "ipa": "/ˈtʃɪl.drənz ˈfes.tɪ.vəl/",
+    "vi": "Tết Thiếu Nhi"
+  },
+  {
+    "en": "Incense (n)",
+    "ipa": "/ˈɪn.sens/",
+    "vi": "Nhang, hương"
+  },
+  {
+    "en": "Fruit tray (n)",
+    "ipa": "/fruːt treɪ/",
+    "vi": "Mâm ngũ quả"
+  },
+  {
+    "en": "Lantern procession (n)",
+    "ipa": "/ˈlæn.tən prəˈseʃ.ən/",
+    "vi": "Rước đèn"
+  },
+  {
+    "en": "Moon viewing (n)",
+    "ipa": "/muːn ˈvjuː.ɪŋ/",
+    "vi": "Ngắm trăng"
+  }
 ]
